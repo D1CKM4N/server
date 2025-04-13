@@ -1,0 +1,34 @@
+# Indicates the version of the configuration file. DO NOT TOUCH the parameter (risk of file reset).
+ConfigVersion: 3
+# Indicates whether the plugin is active (Listen to the BlockBreakEvent).
+TreeChopEnabled: true
+# Decide who can use treechop.
+# If permissions are true, the players must have one of the permissions in the permissions list.
+# Discaimer: the bigger the list of permissions, the more checks per player will be made!
+WhoCanChop:
+  permission: true
+  permissions:
+  - g031.treechop.chop
+# During tree cutting.
+# shiftDisableChop = disables while sneaking, the cutting action.
+# particles = it makes the cutting action of the tree visible and audible.
+# useMultipleAxes = default set to false, to prevent damaging the wrong tool.
+# percentageChop = nessesary cuts as a percentage of total logs. (cannot be a negative number)
+# insufficientAxeDurability = notify that the tool has a lower durability than the total logs.
+OnChop:
+  shiftDisableChop: true
+  particles: true
+  useMultipleAxes: false
+  percentageChop: 80
+  insufficientAxeDurability: true
+# During the fall of the tree.
+# axeBreakStopFall = during the fall of the tree if the tool breaks, it interrupts the breaking of other logs.
+# saveToolDurability = Choose the amount of the durability you want to save of the tool.
+# breakLogsMode = (0 breaks the blocks without following an order) (1 breaks the blocks in an upward manner according to the Y-axis)
+#  (2 breaks the blocks in a downward manner according to the Y-axis).
+# breakLogsPerTick = Value referring to how many logs to break per tick. If set to ‘0’ it will be instantaneous but may impact performance.
+OnFall:
+  axeBreakStopFall: true
+  saveToolDurability: 0
+  breakLogsMode: 1
+  breakLogsPerTick: 2
