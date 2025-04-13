@@ -1,16 +1,32 @@
-[03:36:06] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1021-azure (amd64)
-[03:36:06] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
-[03:36:06] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[03:36:06] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/FokusAPI-2.3.jar'...
-[03:36:07] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/FokusAPI-2.3.jar' in 403ms.
-[03:36:07] [ServerMain/INFO]: [PluginInitializerManager] Initialized 23 plugins
-[03:36:07] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
- - Veinminer (2.4.3)
-[03:36:07] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (22):
- - BoundlessForging (1.0-SNAPSHOT), Brutal_Nightmare (4.0), Chunky (1.4.36), Clumps (4.0), DeathChest (1.3), DeathCoords (V1.0), DoubleJump (2.5), FokusAPI (2.3), LagFixer (1.4.06 (build 101)), LetUrMemoryRest (4.1), LimitedLives (4.0.0), LoginTo (1.4-release), ReanimateMC (1.0), SimpleBucketMobs (1.2.1), SkinsRestorer (15.6.1), UltimateTeams (3.2.1), Wall_Climbing (3.1.1), WorldEdit (7.3.12-beta-01+2a9a7ed), XPHearts (1.1.1), chairs (1.2.2), tps-hud (1.7.5+1.21.5), zHomes (1.3.5)
-[03:36:12] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:36:14] [ServerMain/INFO]: Loaded 1337 recipes
-[03:36:14] [ServerMain/ERROR]: Failed to load function dbjump:nxf/5i3m
+[04:27:09] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1021-azure (amd64)
+[04:27:09] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
+[04:27:09] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[04:27:09] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/Xhomes-2.1-SNAPSHOT.jar'...
+[04:27:09] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Remapping plugin 'plugins/AutoTreeChop-1.6.1.jar'...
+[04:27:09] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Remapping plugin 'plugins/instantrestock_2.5.1.jar'...
+[04:27:09] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/SetSpawn-3.1.jar'...
+[04:27:10] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/Xhomes-2.1-SNAPSHOT.jar' in 655ms.
+[04:27:10] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/QuickEC-2.1.1.jar'...
+[04:27:10] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SetSpawn-3.1.jar' in 508ms.
+[04:27:10] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/TabLocation-1.6.0.jar'...
+[04:27:10] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/QuickEC-2.1.1.jar' in 161ms.
+[04:27:10] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/tpa-20250220c.jar'...
+[04:27:10] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/tpa-20250220c.jar' in 211ms.
+[04:27:11] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Done remapping plugin 'plugins/instantrestock_2.5.1.jar' in 1595ms.
+[04:27:11] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Done remapping plugin 'plugins/AutoTreeChop-1.6.1.jar' in 1760ms.
+[04:27:11] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/TabLocation-1.6.0.jar' in 1248ms.
+[04:27:12] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/com/zaxxer/HikariCP/6.0.0/HikariCP-6.0.0.pom
+[04:27:13] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/it/unimi/dsi/fastutil-core/8.5.13/fastutil-core-8.5.13.pom
+[04:27:13] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/com/zaxxer/HikariCP/6.0.0/HikariCP-6.0.0.jar
+[04:27:13] [BasicRepositoryConnector-repo1.maven.org-0-0/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/it/unimi/dsi/fastutil-core/8.5.13/fastutil-core-8.5.13.jar
+[04:27:13] [ServerMain/INFO]: [PluginInitializerManager] Initialized 30 plugins
+[04:27:13] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (2):
+ - Veinminer (2.4.3), nightcore (2.7.4)
+[04:27:13] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (28):
+ - AutoTreeChop (1.6.1), BoundlessForging (1.0-SNAPSHOT), Brutal_Nightmare (4.0), Chunky (1.4.36), Clumps (4.0), DeathChest (1.3), DeathCoords (V1.0), DoubleJump (2.5), FokusAPI (2.3), InstantRestock (2.5.1), JustTPA (20250220c), LagFixer (1.4.06 (build 101)), LetUrMemoryRest (4.1), LimitedLives (4.0.0), LoginTo (1.4-release), QuickEC (2.1.1), ReanimateMC (1.0), SetSpawn (3.1), SimpleBucketMobs (1.2.1), SkinsRestorer (15.6.1), TabLocation (1.6.0), UltimateTeams (3.2.1), Wall_Climbing (3.1.1), WorldEdit (7.3.12-beta-01+2a9a7ed), XPHearts (1.1.1), Xhomes (2.1), chairs (1.2.2), tps-hud (1.7.5+1.21.5)
+[04:27:16] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:27:18] [ServerMain/INFO]: Loaded 1337 recipes
+[04:27:18] [ServerMain/ERROR]: Failed to load function dbjump:nxf/5i3m
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Can't parse particle options: No key scale in MapLike[{}]; No key color in MapLike[{}]
 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -23,7 +39,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 3 more
-[03:36:14] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_ag6ofx5hq0s
+[04:27:18] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_ag6ofx5hq0s
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -36,7 +52,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 3 more
-[03:36:14] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_0f6w679
+[04:27:18] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_0f6w679
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -49,7 +65,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 3 more
-[03:36:14] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_hlmb5q
+[04:27:18] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_hlmb5q
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -62,7 +78,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 3 more
-[03:36:14] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_9kn2crw
+[04:27:18] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_9kn2crw
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -75,7 +91,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 3 more
-[03:36:14] [ServerMain/ERROR]: Failed to load function cw:nxf/18jqw60riq3
+[04:27:18] [ServerMain/ERROR]: Failed to load function cw:nxf/18jqw60riq3
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 5: Can't find element 'minecraft:boat' of type 'minecraft:entity_type' at position 57: ...craft:boat<--[HERE]
 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -88,7 +104,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 5:
 	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 3 more
-[03:36:14] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_gkb02quko5q
+[04:27:18] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_gkb02quko5q
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Can't find element 'minecraft:generic.follow_range' of type 'minecraft:attribute' at position 43: ...llow_range<--[HERE]
 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -101,7 +117,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 3 more
-[03:36:14] [ServerMain/ERROR]: Failed to load function cw:watermob/move
+[04:27:18] [ServerMain/ERROR]: Failed to load function cw:watermob/move
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 3: Invalid or unknown entity type 'minecraft:boat' at position 31: ...s @e[type=<--[HERE]
 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -114,7 +130,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 3:
 	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 3 more
-[03:36:14] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_1p9ii68t6x
+[04:27:18] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_1p9ii68t6x
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -127,7 +143,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 3 more
-[03:36:14] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_kcc08k2
+[04:27:18] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_kcc08k2
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -140,7 +156,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 3 more
-[03:36:14] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_cammsstog
+[04:27:18] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_cammsstog
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -153,7 +169,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 3 more
-[03:36:14] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_ko7tsx3
+[04:27:18] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_ko7tsx3
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -166,7 +182,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 3 more
-[03:36:14] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_x3sooj
+[04:27:18] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_x3sooj
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Can't find element 'minecraft:generic.movement_speed' of type 'minecraft:attribute' at position 35: ...ment_speed<--[HERE]
 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -179,7 +195,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 3 more
-[03:36:14] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_r18kad
+[04:27:18] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_r18kad
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Can't find element 'minecraft:generic.movement_speed' of type 'minecraft:attribute' at position 93: ...ment_speed<--[HERE]
 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -192,7 +208,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 3 more
-[03:36:14] [ServerMain/ERROR]: Failed to load function cw:nxf/mg2aztae
+[04:27:18] [ServerMain/ERROR]: Failed to load function cw:nxf/mg2aztae
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 10: Can't find element 'minecraft:generic.knockback_resistance' of type 'minecraft:attribute' at position 51: ...resistance<--[HERE]
 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -205,7 +221,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 10
 	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 3 more
-[03:36:14] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_zlgdwle7
+[04:27:18] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_zlgdwle7
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Incorrect argument for command at position 123: ...bler] run <--[HERE]
 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -218,7 +234,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 3 more
-[03:36:14] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_qpio3i
+[04:27:18] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_qpio3i
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -231,7 +247,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 3 more
-[03:36:14] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_y3a5t5vt
+[04:27:18] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_y3a5t5vt
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Can't find element 'minecraft:generic.follow_range' of type 'minecraft:attribute' at position 43: ...llow_range<--[HERE]
 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -244,7 +260,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 3 more
-[03:36:14] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_jdntg
+[04:27:18] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_jdntg
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -257,7 +273,20 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 3 more
-[03:36:14] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_qxskf2tp7l
+[04:27:18] [ServerMain/ERROR]: Failed to load function fokus:nxf/9q8wgbal
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[04:27:18] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_qxskf2tp7l
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown block type 'minecraft:grass' at position 23: ...ock ~ ~ ~ <--[HERE]
 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -270,7 +299,20 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 3 more
-[03:36:14] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_thm4fndti
+[04:27:18] [ServerMain/ERROR]: Failed to load function fokus:replace_psmob_cow
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Expected key at position 86: ...cow_psg"],<--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Expected key at position 86: ...cow_psg"],<--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[04:27:18] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_thm4fndti
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -283,7 +325,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 3 more
-[03:36:14] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_wxd1uw
+[04:27:18] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_wxd1uw
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -296,7 +338,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 3 more
-[03:36:14] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_sshj
+[04:27:18] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_sshj
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -309,7 +351,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 3 more
-[03:36:14] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_vyat55828
+[04:27:18] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_vyat55828
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -322,7 +364,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 3 more
-[03:36:14] [ServerMain/ERROR]: Failed to load function cw:nxf/wy7c8hn
+[04:27:18] [ServerMain/ERROR]: Failed to load function cw:nxf/wy7c8hn
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 10: Can't find element 'minecraft:generic.knockback_resistance' of type 'minecraft:attribute' at position 51: ...resistance<--[HERE]
 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -335,7 +377,20 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 10
 	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 3 more
-[03:36:14] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_d5cfroe88ju
+[04:27:18] [ServerMain/ERROR]: Failed to load function fokus:vd/cores/1.21.4
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown block type 'minecraft:open_eyeblossom' at position 23: ...ock 0 0 0 <--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown block type 'minecraft:open_eyeblossom' at position 23: ...ock 0 0 0 <--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[04:27:18] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_d5cfroe88ju
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Can't find element 'minecraft:generic.movement_speed' of type 'minecraft:attribute' at position 97: ...ment_speed<--[HERE]
 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -348,7 +403,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 3 more
-[03:36:14] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_9mlid56
+[04:27:18] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_9mlid56
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -361,7 +416,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 3 more
-[03:36:14] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_yumkld
+[04:27:18] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_yumkld
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Can't find element 'minecraft:generic.movement_speed' of type 'minecraft:attribute' at position 97: ...ment_speed<--[HERE]
 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -374,7 +429,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 3 more
-[03:36:14] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_sao8vmp
+[04:27:18] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_sao8vmp
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -387,7 +442,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 3 more
-[03:36:14] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_49eurz7
+[04:27:18] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_49eurz7
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Can't find element 'minecraft:generic.movement_speed' of type 'minecraft:attribute' at position 101: ...ment_speed<--[HERE]
 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -400,7 +455,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 3 more
-[03:36:14] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_n10kyo88
+[04:27:18] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_n10kyo88
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -413,7 +468,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 3 more
-[03:36:14] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_lzsy4o
+[04:27:18] [ServerMain/ERROR]: Failed to load function cw:nxf/_ignored_lzsy4o
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Can't find element 'minecraft:generic.movement_speed' of type 'minecraft:attribute' at position 35: ...ment_speed<--[HERE]
 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -426,39 +481,24 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 3 more
-[03:36:14] [ServerMain/INFO]: Loaded 1448 advancements
-[03:36:14] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[03:36:14] [Server thread/INFO]: Loading properties
-[03:36:14] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
-[03:36:16] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[03:36:16] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[03:36:16] [Server thread/INFO]: Using 4 threads for Netty based IO
-[03:36:16] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[03:36:16] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[03:36:16] [Server thread/INFO]: Default game type: SURVIVAL
-[03:36:16] [Server thread/INFO]: Generating keypair
-[03:36:16] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:36:16] [Server thread/INFO]: Using epoll channel type
-[03:36:16] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[03:36:16] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[03:36:16] [Server thread/INFO]: [SpigotLibraryLoader] [LagFixer] Loading 3 libraries... please wait
-[03:36:17] [Server thread/INFO]: [SpigotLibraryLoader] [LagFixer] Loaded library /workspaces/server/servidor_minecraft/libraries/org/apache/commons/commons-lang3/3.17.0/commons-lang3-3.17.0.jar
-[03:36:17] [Server thread/INFO]: [SpigotLibraryLoader] [LagFixer] Loaded library /workspaces/server/servidor_minecraft/libraries/commons-io/commons-io/2.18.0/commons-io-2.18.0.jar
-[03:36:17] [Server thread/INFO]: [SpigotLibraryLoader] [LagFixer] Loaded library /workspaces/server/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.8.0/oshi-core-6.8.0.jar
-[03:36:17] [Server thread/INFO]: [SpigotLibraryLoader] [LagFixer] Loaded library /workspaces/server/servidor_minecraft/libraries/net/java/dev/jna/jna/5.17.0/jna-5.17.0.jar
-[03:36:17] [Server thread/INFO]: [SpigotLibraryLoader] [LagFixer] Loaded library /workspaces/server/servidor_minecraft/libraries/net/java/dev/jna/jna-platform/5.17.0/jna-platform-5.17.0.jar
-[03:36:17] [Server thread/INFO]: [SpigotLibraryLoader] [LagFixer] Loaded library /workspaces/server/servidor_minecraft/libraries/org/slf4j/slf4j-api/2.0.17/slf4j-api-2.0.17.jar
-[03:36:17] [Server thread/INFO]: [SpigotLibraryLoader] [tps-hud] Loading 1 libraries... please wait
-[03:36:17] [Server thread/INFO]: [SpigotLibraryLoader] [tps-hud] Loaded library /workspaces/server/servidor_minecraft/libraries/org/jetbrains/kotlin/kotlin-stdlib/1.8.10/kotlin-stdlib-1.8.10.jar
-[03:36:17] [Server thread/INFO]: [SpigotLibraryLoader] [tps-hud] Loaded library /workspaces/server/servidor_minecraft/libraries/org/jetbrains/kotlin/kotlin-stdlib-common/1.8.10/kotlin-stdlib-common-1.8.10.jar
-[03:36:17] [Server thread/INFO]: [SpigotLibraryLoader] [tps-hud] Loaded library /workspaces/server/servidor_minecraft/libraries/org/jetbrains/annotations/13.0/annotations-13.0.jar
-[03:36:17] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[03:36:24] [Server thread/WARN]: Legacy plugin ReanimateMC v1.0 does not specify an api-version.
-[03:36:24] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load plugin 'zHomes-1.3.5.jar' in folder 'plugins/.paper-remapped'
-org.bukkit.plugin.InvalidPluginException: java.lang.NoClassDefFoundError: me/clip/placeholderapi/expansion/PlaceholderExpansion
-	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:129) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:35) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:116) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+[04:27:18] [ServerMain/INFO]: Loaded 1448 advancements
+[04:27:18] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[04:27:18] [Server thread/INFO]: Loading properties
+[04:27:18] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
+[04:27:20] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[04:27:20] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[04:27:20] [Server thread/INFO]: Using 4 threads for Netty based IO
+[04:27:20] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[04:27:20] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[04:27:20] [Server thread/INFO]: Default game type: SURVIVAL
+[04:27:20] [Server thread/INFO]: Generating keypair
+[04:27:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:27:21] [Server thread/INFO]: Using epoll channel type
+[04:27:21] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[04:27:21] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[04:27:21] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/.paper-remapped/QuickEC-2.1.1.jar' in 'plugins/.paper-remapped'
+org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [Kotlin]. Please download and install these plugins to run 'QuickEC'.
+	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:40) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:561) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
@@ -466,108 +506,116 @@ org.bukkit.plugin.InvalidPluginException: java.lang.NoClassDefFoundError: me/cli
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1234) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.NoClassDefFoundError: me/clip/placeholderapi/expansion/PlaceholderExpansion
-	at java.base/java.lang.Class.forName0(Native Method) ~[?:?]
-	at java.base/java.lang.Class.forName(Class.java:534) ~[?:?]
-	at java.base/java.lang.Class.forName(Class.java:513) ~[?:?]
-	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:78) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:125) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	... 9 more
-Caused by: java.lang.ClassNotFoundException: me.clip.placeholderapi.expansion.PlaceholderExpansion
-	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
-	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
-	at java.base/java.lang.Class.forName0(Native Method) ~[?:?]
-	at java.base/java.lang.Class.forName(Class.java:534) ~[?:?]
-	at java.base/java.lang.Class.forName(Class.java:513) ~[?:?]
-	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:78) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:125) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	... 9 more
-[03:36:24] [Server thread/INFO]: [SpigotLibraryLoader] [UltimateTeams] Loading 6 libraries... please wait
-[03:36:24] [Server thread/INFO]: [SpigotLibraryLoader] [UltimateTeams] Loaded library /workspaces/server/servidor_minecraft/libraries/com/mysql/mysql-connector-j/9.0.0/mysql-connector-j-9.0.0.jar
-[03:36:24] [Server thread/INFO]: [SpigotLibraryLoader] [UltimateTeams] Loaded library /workspaces/server/servidor_minecraft/libraries/com/google/protobuf/protobuf-java/4.26.1/protobuf-java-4.26.1.jar
-[03:36:24] [Server thread/INFO]: [SpigotLibraryLoader] [UltimateTeams] Loaded library /workspaces/server/servidor_minecraft/libraries/org/mariadb/jdbc/mariadb-java-client/3.4.1/mariadb-java-client-3.4.1.jar
-[03:36:24] [Server thread/INFO]: [SpigotLibraryLoader] [UltimateTeams] Loaded library /workspaces/server/servidor_minecraft/libraries/com/github/waffle/waffle-jna/3.3.0/waffle-jna-3.3.0.jar
-[03:36:24] [Server thread/INFO]: [SpigotLibraryLoader] [UltimateTeams] Loaded library /workspaces/server/servidor_minecraft/libraries/net/java/dev/jna/jna/5.13.0/jna-5.13.0.jar
-[03:36:24] [Server thread/INFO]: [SpigotLibraryLoader] [UltimateTeams] Loaded library /workspaces/server/servidor_minecraft/libraries/net/java/dev/jna/jna-platform/5.13.0/jna-platform-5.13.0.jar
-[03:36:24] [Server thread/INFO]: [SpigotLibraryLoader] [UltimateTeams] Loaded library /workspaces/server/servidor_minecraft/libraries/org/slf4j/jcl-over-slf4j/2.0.7/jcl-over-slf4j-2.0.7.jar
-[03:36:24] [Server thread/INFO]: [SpigotLibraryLoader] [UltimateTeams] Loaded library /workspaces/server/servidor_minecraft/libraries/com/github/ben-manes/caffeine/caffeine/2.9.3/caffeine-2.9.3.jar
-[03:36:24] [Server thread/INFO]: [SpigotLibraryLoader] [UltimateTeams] Loaded library /workspaces/server/servidor_minecraft/libraries/com/google/errorprone/error_prone_annotations/2.10.0/error_prone_annotations-2.10.0.jar
-[03:36:24] [Server thread/INFO]: [SpigotLibraryLoader] [UltimateTeams] Loaded library /workspaces/server/servidor_minecraft/libraries/org/xerial/sqlite-jdbc/3.46.1.0/sqlite-jdbc-3.46.1.0.jar
-[03:36:24] [Server thread/INFO]: [SpigotLibraryLoader] [UltimateTeams] Loaded library /workspaces/server/servidor_minecraft/libraries/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar
-[03:36:24] [Server thread/INFO]: [SpigotLibraryLoader] [UltimateTeams] Loaded library /workspaces/server/servidor_minecraft/libraries/com/h2database/h2/2.3.232/h2-2.3.232.jar
-[03:36:24] [Server thread/INFO]: [SpigotLibraryLoader] [UltimateTeams] Loaded library /workspaces/server/servidor_minecraft/libraries/com/zaxxer/HikariCP/5.1.0/HikariCP-5.1.0.jar
-[03:36:24] [Server thread/INFO]: [SpigotLibraryLoader] [UltimateTeams] Loaded library /workspaces/server/servidor_minecraft/libraries/org/postgresql/postgresql/42.7.3/postgresql-42.7.3.jar
-[03:36:24] [Server thread/INFO]: [SpigotLibraryLoader] [UltimateTeams] Loaded library /workspaces/server/servidor_minecraft/libraries/org/checkerframework/checker-qual/3.42.0/checker-qual-3.42.0.jar
-[03:36:24] [Server thread/INFO]: [[38;5;11m⚡[0m] Loading server plugin LagFixer v1.4.06 (build 101)
-[03:36:24] [Server thread/INFO]: [Brutal_Nightmare] Loading server plugin Brutal_Nightmare v4.0
-[03:36:24] [Server thread/INFO]: [tps-hud] Loading server plugin tps-hud v1.7.5+1.21.5
-[03:36:24] [Server thread/INFO]: [Clumps] Loading server plugin Clumps v4.0
-[03:36:24] [Server thread/INFO]: [FokusAPI] Loading server plugin FokusAPI v2.3
-[03:36:24] [Server thread/INFO]: [DoubleJump] Loading server plugin DoubleJump v2.5
-[03:36:24] [Server thread/INFO]: [DeathCoords] Loading server plugin DeathCoords vV1.0
-[03:36:24] [Server thread/INFO]: [DeathChest] Loading server plugin DeathChest v1.3
-[03:36:24] [Server thread/INFO]: [XPHearts] Loading server plugin XPHearts v1.1.1
-[03:36:24] [Server thread/INFO]: [BoundlessForging] Loading server plugin BoundlessForging v1.0-SNAPSHOT
-[03:36:24] [Server thread/INFO]: [LoginTo] Loading server plugin LoginTo v1.4-release
-[03:36:24] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.12-beta-01+2a9a7ed
-[03:36:25] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@37b75d27]
-[03:36:25] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.1
-[03:36:25] [Server thread/INFO]: [LimitedLives] Loading server plugin LimitedLives v4.0.0
-[03:36:25] [Server thread/INFO]: [LetUrMemoryRest] Loading server plugin LetUrMemoryRest v4.1
-[03:36:25] [Server thread/INFO]: [SimpleBucketMobs] Loading server plugin SimpleBucketMobs v1.2.1
-[03:36:25] [Server thread/INFO]: [ReanimateMC] Loading server plugin ReanimateMC v1.0
-[03:36:25] [Server thread/INFO]: [chairs] Loading server plugin chairs v1.2.2
-[03:36:25] [Server thread/INFO]: [Veinminer] Loading server plugin Veinminer v2.4.3
-[03:36:25] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.36
-[03:36:25] [Server thread/INFO]: [UltimateTeams] Loading server plugin UltimateTeams v3.2.1
-[03:36:25] [Server thread/INFO]: [Wall_Climbing] Loading server plugin Wall_Climbing v3.1.1
-[03:36:25] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[03:36:25] [Server thread/INFO]: [Clumps] Enabling Clumps v4.0
-[03:36:26] [Server thread/INFO]: [LoginTo] Enabling LoginTo v1.4-release
-[03:36:26] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.12-beta-01+2a9a7ed
-[03:36:26] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[03:36:26] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[03:36:26] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21_3.PaperweightAdapter as the Bukkit adapter
-[03:36:27] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.1
-[03:36:27] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[03:36:28] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.3.
-[03:36:28] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[03:36:28] [Server thread/INFO]: [Veinminer] Enabling Veinminer v2.4.3
-[03:36:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:36:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:36:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:36:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:36:28] [Server thread/INFO]: Preparing level "world"
-[03:36:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:36:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[03:36:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[03:36:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[03:36:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[03:36:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[03:36:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:36:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.1
-[03:36:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 8687003
-[03:36:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[03:36:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:36:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[03:36:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[03:36:29] [DefaultDispatcher-worker-1/INFO]: [VeinminerUpdater] veinminer is up to date
-[03:36:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:36:29] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
-[03:36:30] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 385.7ms
-[03:36:30] [Server thread/INFO]: Preparing spawn area: 0%
-[03:36:30] [Server thread/INFO]: Preparing spawn area: 0%
-[03:36:31] [Server thread/INFO]: Preparing spawn area: 0%
-[03:36:31] [Server thread/INFO]: Time elapsed: 1383 ms
-[03:36:31] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[03:36:31] [Server thread/INFO]: Preparing spawn area: 0%
-[03:36:31] [Server thread/INFO]: Time elapsed: 222 ms
-[03:36:31] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[03:36:31] [Server thread/INFO]: Preparing spawn area: 0%
-[03:36:31] [Server thread/INFO]: Time elapsed: 130 ms
-[03:36:31] [Server thread/INFO]: [[38;5;11m⚡[0m] Enabling LagFixer v1.4.06 (build 101)
-[03:36:31] [Server thread/INFO]: [[38;5;11m⚡[0m] Remember to leave a rating! ★ ★ ★ ★ ★
+[04:27:21] [Server thread/INFO]: [SpigotLibraryLoader] [LagFixer] Loading 3 libraries... please wait
+[04:27:21] [Server thread/INFO]: [SpigotLibraryLoader] [LagFixer] Loaded library /workspaces/server/servidor_minecraft/libraries/org/apache/commons/commons-lang3/3.17.0/commons-lang3-3.17.0.jar
+[04:27:21] [Server thread/INFO]: [SpigotLibraryLoader] [LagFixer] Loaded library /workspaces/server/servidor_minecraft/libraries/commons-io/commons-io/2.18.0/commons-io-2.18.0.jar
+[04:27:21] [Server thread/INFO]: [SpigotLibraryLoader] [LagFixer] Loaded library /workspaces/server/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.8.0/oshi-core-6.8.0.jar
+[04:27:21] [Server thread/INFO]: [SpigotLibraryLoader] [LagFixer] Loaded library /workspaces/server/servidor_minecraft/libraries/net/java/dev/jna/jna/5.17.0/jna-5.17.0.jar
+[04:27:21] [Server thread/INFO]: [SpigotLibraryLoader] [LagFixer] Loaded library /workspaces/server/servidor_minecraft/libraries/net/java/dev/jna/jna-platform/5.17.0/jna-platform-5.17.0.jar
+[04:27:21] [Server thread/INFO]: [SpigotLibraryLoader] [LagFixer] Loaded library /workspaces/server/servidor_minecraft/libraries/org/slf4j/slf4j-api/2.0.17/slf4j-api-2.0.17.jar
+[04:27:21] [Server thread/INFO]: [nightcore] Server version detected as Paper 1.21.3. Using paper-bridge.
+[04:27:21] [Server thread/INFO]: [SpigotLibraryLoader] [tps-hud] Loading 1 libraries... please wait
+[04:27:21] [Server thread/INFO]: [SpigotLibraryLoader] [tps-hud] Loaded library /workspaces/server/servidor_minecraft/libraries/org/jetbrains/kotlin/kotlin-stdlib/1.8.10/kotlin-stdlib-1.8.10.jar
+[04:27:21] [Server thread/INFO]: [SpigotLibraryLoader] [tps-hud] Loaded library /workspaces/server/servidor_minecraft/libraries/org/jetbrains/kotlin/kotlin-stdlib-common/1.8.10/kotlin-stdlib-common-1.8.10.jar
+[04:27:21] [Server thread/INFO]: [SpigotLibraryLoader] [tps-hud] Loaded library /workspaces/server/servidor_minecraft/libraries/org/jetbrains/annotations/13.0/annotations-13.0.jar
+[04:27:21] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[04:27:29] [Server thread/WARN]: Legacy plugin ReanimateMC v1.0 does not specify an api-version.
+[04:27:29] [Server thread/INFO]: [SpigotLibraryLoader] [UltimateTeams] Loading 6 libraries... please wait
+[04:27:29] [Server thread/INFO]: [SpigotLibraryLoader] [UltimateTeams] Loaded library /workspaces/server/servidor_minecraft/libraries/com/mysql/mysql-connector-j/9.0.0/mysql-connector-j-9.0.0.jar
+[04:27:29] [Server thread/INFO]: [SpigotLibraryLoader] [UltimateTeams] Loaded library /workspaces/server/servidor_minecraft/libraries/com/google/protobuf/protobuf-java/4.26.1/protobuf-java-4.26.1.jar
+[04:27:29] [Server thread/INFO]: [SpigotLibraryLoader] [UltimateTeams] Loaded library /workspaces/server/servidor_minecraft/libraries/org/mariadb/jdbc/mariadb-java-client/3.4.1/mariadb-java-client-3.4.1.jar
+[04:27:29] [Server thread/INFO]: [SpigotLibraryLoader] [UltimateTeams] Loaded library /workspaces/server/servidor_minecraft/libraries/com/github/waffle/waffle-jna/3.3.0/waffle-jna-3.3.0.jar
+[04:27:29] [Server thread/INFO]: [SpigotLibraryLoader] [UltimateTeams] Loaded library /workspaces/server/servidor_minecraft/libraries/net/java/dev/jna/jna/5.13.0/jna-5.13.0.jar
+[04:27:29] [Server thread/INFO]: [SpigotLibraryLoader] [UltimateTeams] Loaded library /workspaces/server/servidor_minecraft/libraries/net/java/dev/jna/jna-platform/5.13.0/jna-platform-5.13.0.jar
+[04:27:29] [Server thread/INFO]: [SpigotLibraryLoader] [UltimateTeams] Loaded library /workspaces/server/servidor_minecraft/libraries/org/slf4j/jcl-over-slf4j/2.0.7/jcl-over-slf4j-2.0.7.jar
+[04:27:29] [Server thread/INFO]: [SpigotLibraryLoader] [UltimateTeams] Loaded library /workspaces/server/servidor_minecraft/libraries/com/github/ben-manes/caffeine/caffeine/2.9.3/caffeine-2.9.3.jar
+[04:27:29] [Server thread/INFO]: [SpigotLibraryLoader] [UltimateTeams] Loaded library /workspaces/server/servidor_minecraft/libraries/com/google/errorprone/error_prone_annotations/2.10.0/error_prone_annotations-2.10.0.jar
+[04:27:29] [Server thread/INFO]: [SpigotLibraryLoader] [UltimateTeams] Loaded library /workspaces/server/servidor_minecraft/libraries/org/xerial/sqlite-jdbc/3.46.1.0/sqlite-jdbc-3.46.1.0.jar
+[04:27:29] [Server thread/INFO]: [SpigotLibraryLoader] [UltimateTeams] Loaded library /workspaces/server/servidor_minecraft/libraries/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar
+[04:27:29] [Server thread/INFO]: [SpigotLibraryLoader] [UltimateTeams] Loaded library /workspaces/server/servidor_minecraft/libraries/com/h2database/h2/2.3.232/h2-2.3.232.jar
+[04:27:29] [Server thread/INFO]: [SpigotLibraryLoader] [UltimateTeams] Loaded library /workspaces/server/servidor_minecraft/libraries/com/zaxxer/HikariCP/5.1.0/HikariCP-5.1.0.jar
+[04:27:29] [Server thread/INFO]: [SpigotLibraryLoader] [UltimateTeams] Loaded library /workspaces/server/servidor_minecraft/libraries/org/postgresql/postgresql/42.7.3/postgresql-42.7.3.jar
+[04:27:29] [Server thread/INFO]: [SpigotLibraryLoader] [UltimateTeams] Loaded library /workspaces/server/servidor_minecraft/libraries/org/checkerframework/checker-qual/3.42.0/checker-qual-3.42.0.jar
+[04:27:29] [Server thread/INFO]: [[38;5;11m⚡[0m] Loading server plugin LagFixer v1.4.06 (build 101)
+[04:27:29] [Server thread/INFO]: [Brutal_Nightmare] Loading server plugin Brutal_Nightmare v4.0
+[04:27:29] [Server thread/INFO]: [JustTPA] Loading server plugin JustTPA v20250220c
+[04:27:29] [Server thread/INFO]: [nightcore] Loading server plugin nightcore v2.7.4
+[04:27:29] [Server thread/INFO]: [tps-hud] Loading server plugin tps-hud v1.7.5+1.21.5
+[04:27:29] [Server thread/INFO]: [Clumps] Loading server plugin Clumps v4.0
+[04:27:29] [Server thread/INFO]: [TabLocation] Loading server plugin TabLocation v1.6.0
+[04:27:29] [Server thread/INFO]: [FokusAPI] Loading server plugin FokusAPI v2.3
+[04:27:29] [Server thread/INFO]: [DoubleJump] Loading server plugin DoubleJump v2.5
+[04:27:29] [Server thread/INFO]: [DeathCoords] Loading server plugin DeathCoords vV1.0
+[04:27:29] [Server thread/INFO]: [SetSpawn] Loading server plugin SetSpawn v3.1
+[04:27:29] [Server thread/INFO]: [DeathChest] Loading server plugin DeathChest v1.3
+[04:27:29] [Server thread/INFO]: [XPHearts] Loading server plugin XPHearts v1.1.1
+[04:27:29] [Server thread/INFO]: [BoundlessForging] Loading server plugin BoundlessForging v1.0-SNAPSHOT
+[04:27:29] [Server thread/INFO]: [LoginTo] Loading server plugin LoginTo v1.4-release
+[04:27:29] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.12-beta-01+2a9a7ed
+[04:27:30] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@4d50ca84]
+[04:27:30] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.1
+[04:27:30] [Server thread/INFO]: [InstantRestock] Loading server plugin InstantRestock v2.5.1
+[04:27:30] [Server thread/INFO]: [LimitedLives] Loading server plugin LimitedLives v4.0.0
+[04:27:30] [Server thread/INFO]: [LetUrMemoryRest] Loading server plugin LetUrMemoryRest v4.1
+[04:27:30] [Server thread/INFO]: [SimpleBucketMobs] Loading server plugin SimpleBucketMobs v1.2.1
+[04:27:30] [Server thread/INFO]: [ReanimateMC] Loading server plugin ReanimateMC v1.0
+[04:27:30] [Server thread/INFO]: [chairs] Loading server plugin chairs v1.2.2
+[04:27:30] [Server thread/INFO]: [Veinminer] Loading server plugin Veinminer v2.4.3
+[04:27:30] [Server thread/INFO]: [AutoTreeChop] Loading server plugin AutoTreeChop v1.6.1
+[04:27:30] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.36
+[04:27:30] [Server thread/INFO]: [Xhomes] Loading server plugin Xhomes v2.1
+[04:27:30] [Server thread/INFO]: [UltimateTeams] Loading server plugin UltimateTeams v3.2.1
+[04:27:30] [Server thread/INFO]: [Wall_Climbing] Loading server plugin Wall_Climbing v3.1.1
+[04:27:30] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[04:27:30] [Server thread/INFO]: [nightcore] Enabling nightcore v2.7.4
+[04:27:31] [Server thread/INFO]: [nightcore] Downloading 'en' assets from github...
+[04:27:31] [Server thread/INFO]: [nightcore] Time zone set as Etc/UTC
+[04:27:31] [Server thread/INFO]: [nightcore] Plugin loaded in 379 ms!
+[04:27:31] [Server thread/INFO]: [Clumps] Enabling Clumps v4.0
+[04:27:31] [Server thread/INFO]: [LoginTo] Enabling LoginTo v1.4-release
+[04:27:31] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.12-beta-01+2a9a7ed
+[04:27:31] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[04:27:31] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[04:27:31] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21_3.PaperweightAdapter as the Bukkit adapter
+[04:27:32] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.1
+[04:27:32] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[04:27:32] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.3.
+[04:27:33] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[04:27:33] [Server thread/INFO]: [Veinminer] Enabling Veinminer v2.4.3
+[04:27:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[04:27:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[04:27:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[04:27:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[04:27:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[04:27:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[04:27:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[04:27:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.1
+[04:27:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 8687003
+[04:27:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[04:27:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[04:27:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[04:27:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[04:27:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:27:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:27:33] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:27:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:27:33] [Server thread/INFO]: Preparing level "world"
+[04:27:33] [DefaultDispatcher-worker-1/INFO]: [VeinminerUpdater] veinminer is up to date
+[04:27:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:27:34] [Server thread/INFO]: Preparing spawn area: 0%
+[04:27:34] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[04:27:35] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 271.9ms
+[04:27:35] [Server thread/INFO]: Preparing spawn area: 2%
+[04:27:35] [Server thread/INFO]: Preparing spawn area: 4%
+[04:27:35] [Server thread/INFO]: Time elapsed: 1262 ms
+[04:27:35] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[04:27:35] [Server thread/INFO]: Preparing spawn area: 0%
+[04:27:35] [Server thread/INFO]: Time elapsed: 189 ms
+[04:27:35] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[04:27:35] [Server thread/INFO]: Preparing spawn area: 0%
+[04:27:35] [Server thread/INFO]: Time elapsed: 138 ms
+[04:27:35] [Server thread/INFO]: [[38;5;11m⚡[0m] Enabling LagFixer v1.4.06 (build 101)
+[04:27:36] [Server thread/INFO]: [[38;5;11m⚡[0m] Remember to leave a rating! ★ ★ ★ ★ ★
 
 
 
@@ -587,707 +635,271 @@ LagFixer - Best Performance Solution!
 
 
 
-[03:36:31] [Server thread/INFO]: [[38;5;11m⚡[0m] (ErrorsManager) -> Enabling manager...
-[03:36:31] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Started listening for console LagFixer errors!
-[03:36:31] [Server thread/INFO]: [[38;5;11m⚡[0m] (ErrorsManager) -> Enabled manager in 2ms!
-[03:36:31] [Server thread/INFO]: [[38;5;11m⚡[0m] (SupportManager) -> Enabling manager...
-[03:36:31] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Loaded fork support ~ xyz.lychee.lagfixer.support.Paper
-[03:36:31] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Loaded nms support ~ xyz.lychee.lagfixer.nms.v1_21_R2.SupportNms
-[03:36:31] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Loaded creatures 20 to creature container!
-[03:36:31] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Loaded items 1 to item container!
-[03:36:31] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Loaded projectiles 0 to projectile container!
-[03:36:31] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Loaded vehicles 6 to vehicle container!
-[03:36:31] [Server thread/INFO]: [[38;5;11m⚡[0m] (SupportManager) -> Enabled manager in 25ms!
-[03:36:31] [Server thread/INFO]: [[38;5;11m⚡[0m] (ConfigManager) -> Enabling manager...
-[03:36:31] [Server thread/INFO]: [[38;5;11m⚡[0m] (ConfigManager) -> Enabled manager in 93ms!
-[03:36:31] [Server thread/INFO]: [[38;5;11m⚡[0m] (HookManager) -> Enabling manager...
-[03:36:31] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Skipping hook WildStacker, reason: Plugin not found
-[03:36:31] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Skipping hook UltimateStacker, reason: Plugin not found
-[03:36:31] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Skipping hook spark, reason: Plugin not found
-[03:36:31] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Skipping hook RoseStacker, reason: Plugin not found
-[03:36:31] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Skipping hook PlaceholderAPI, reason: Plugin not found
-[03:36:31] [Server thread/INFO]: [[38;5;11m⚡[0m] (HookManager) -> Enabled manager in 0ms!
-[03:36:31] [Server thread/INFO]: [[38;5;11m⚡[0m] (MetricsManager) -> Enabling manager...
-[03:36:31] [Server thread/INFO]: [[38;5;11m⚡[0m] (MetricsManager) -> Enabled manager in 8ms!
-[03:36:31] [Server thread/INFO]: [[38;5;11m⚡[0m] (UpdaterManager) -> Enabling manager...
-[03:36:31] [Server thread/INFO]: [[38;5;11m⚡[0m] (UpdaterManager) -> Enabled manager in 1ms!
-[03:36:31] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:36:32] [Server thread/INFO]: [[38;5;11m⚡[0m] (ModuleManager) -> Enabling manager...
-[03:36:32] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully loaded module InstantLeafDecay in 2ms.
-[03:36:32] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully loaded module VehicleMotionReducer in 8ms.
-[03:36:32] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully loaded module LagMonitor in 2ms.
-[03:36:32] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully loaded module MobAiReducer in 10ms.
-[03:36:32] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully loaded module RedstoneLimiter in 4ms.
-[03:36:32] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully loaded module EntityLimiter in 4ms.
-[03:36:32] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully loaded module WorldCleaner in 8ms.
-[03:36:32] [Server thread/INFO]: [[38;5;11m⚡[0m] (ModuleManager) -> Enabled manager in 137ms!
-[03:36:32] [Server thread/INFO]: [[38;5;11m⚡[0m] (CommandManager) -> Enabling manager...
-[03:36:32] [Server thread/INFO]: [[38;5;11m⚡[0m] (CommandManager) -> Enabled manager in 150ms!
-[03:36:32] [Server thread/INFO]: [[38;5;11m⚡[0m] Remember to leave a rating! ★ ★ ★ ★ ★
-[03:36:32] [Server thread/INFO]: [Brutal_Nightmare] Enabling Brutal_Nightmare v4.0
-[03:36:32] [Server thread/INFO]: [Brutal_Nightmare] DatapackDownloader Plugin Enabled!
-[03:36:32] [Server thread/INFO]: [Brutal_Nightmare] Datapack already exists. Skipping download.
-[03:36:32] [Server thread/INFO]: [tps-hud] Enabling tps-hud v1.7.5+1.21.5
-[03:36:32] [Server thread/INFO]: [FokusAPI] Enabling FokusAPI v2.3
-[03:36:32] [Server thread/INFO]: [FokusAPI] DatapackDownloader Plugin Enabled!
-[03:36:32] [Server thread/INFO]: [FokusAPI] Downloading datapack...
-[03:36:32] [Server thread/INFO]: [FokusAPI] Datapack downloaded successfully.
-[03:36:32] [Server thread/INFO]: [FokusAPI] Enabling datapack...
-[03:36:32] [Server thread/INFO]: [DoubleJump] Enabling DoubleJump v2.5
-[03:36:32] [Server thread/INFO]: [DoubleJump] DatapackDownloader Plugin Enabled!
-[03:36:32] [Server thread/INFO]: [DoubleJump] Datapack already exists. Skipping download.
-[03:36:32] [Server thread/INFO]: [DeathCoords] Enabling DeathCoords vV1.0
-[03:36:32] [Server thread/INFO]: [DeathChest] Enabling DeathChest v1.3
-[03:36:32] [Server thread/INFO]: [DeathChest] I might be working
-[03:36:32] [Server thread/INFO]: [DeathChest] Loaded Death Chests
-[03:36:32] [Server thread/WARN]: [DeathChest] /coords disabled
-[03:36:32] [Server thread/INFO]: [XPHearts] Enabling XPHearts v1.1.1
-[03:36:32] [Server thread/INFO]: [BoundlessForging] Enabling BoundlessForging v1.0-SNAPSHOT
-[03:36:32] [Server thread/INFO]: [LimitedLives] Enabling LimitedLives v4.0.0
-[03:36:32] [Server thread/INFO]: [LimitedLives] -------------------
-[03:36:32] [Server thread/INFO]: [LimitedLives] LimitedLives v4.0.0
-[03:36:32] [Server thread/INFO]: [LimitedLives] By srnyx
-[03:36:32] [Server thread/INFO]: [LimitedLives] -------------------
-[03:36:33] [Server thread/INFO]: [LetUrMemoryRest] Enabling LetUrMemoryRest v4.1
-[03:36:33] [Server thread/INFO]: [SimpleBucketMobs] Enabling SimpleBucketMobs v1.2.1
-[03:36:33] [Server thread/INFO]: [ReanimateMC] Enabling ReanimateMC v1.0*
-[03:36:33] [Server thread/INFO]: [ReanimateMC] ReanimateMC activé !
-[03:36:33] [Server thread/INFO]: [chairs] Enabling chairs v1.2.2
-[03:36:33] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.36
-[03:36:33] [Server thread/INFO]: [UltimateTeams] Enabling UltimateTeams v3.2.1
-[03:36:33] [Server thread/INFO]: [UltimateTeams] [ACF] Enabled Asynchronous Tab Completion Support!
-[03:36:33] [Server thread/INFO]: [UltimateTeams] Initializing plugin config & locale files...
-[03:36:33] [Server thread/INFO]: [UltimateTeams] Successfully initialized plugin config & locale files
-[03:36:33] [Server thread/INFO]: [UltimateTeams] Initializing SQLite database connection...
-[03:36:33] [Server thread/INFO]: [UltimateTeams] Database tables created
-[03:36:33] [Server thread/INFO]: [UltimateTeams] Successfully initialized SQLite database connection
-[03:36:33] [Server thread/INFO]: [UltimateTeams] Initializing commands...
-[03:36:33] [Server thread/INFO]: [UltimateTeams] Successfully initialized commands
-[03:36:33] [Server thread/INFO]: [UltimateTeams] Initializing events...
-[03:36:33] [Server thread/INFO]: [UltimateTeams] Successfully initialized events
-[03:36:33] [Server thread/INFO]: [UltimateTeams] Initializing teams...
-[03:36:33] [Server thread/INFO]: [UltimateTeams] Successfully initialized teams
-[03:36:33] [Server thread/INFO]: -------------------------------------------
-[03:36:33] [Server thread/INFO]: UltimateTeams: PlaceholderAPI not found!
-[03:36:33] [Server thread/INFO]: UltimateTeams: External placeholders disabled!
-[03:36:33] [Server thread/INFO]: -------------------------------------------
-[03:36:33] [Server thread/INFO]: -------------------------------------------
-[03:36:33] [Server thread/INFO]: UltimateTeams: FloodgateApi not found/feature disabled!
-[03:36:33] [Server thread/INFO]: UltimateTeams: Bedrock support won't work!
-[03:36:33] [Server thread/INFO]: -------------------------------------------
-[03:36:33] [Server thread/INFO]: [UltimateTeams] Initializing metrics...
-[03:36:33] [Server thread/INFO]: [UltimateTeams] Successfully initialized metrics
-[03:36:33] [Server thread/INFO]: [Wall_Climbing] Enabling Wall_Climbing v3.1.1
-[03:36:33] [Server thread/INFO]: [Wall_Climbing] DatapackDownloader Plugin Enabled!
-[03:36:33] [Server thread/INFO]: [Wall_Climbing] Datapack already exists. Skipping download.
-[03:36:33] [Server thread/INFO]: [spark] Starting background profiler...
-[03:36:34] [Server thread/INFO]: Done preparing level "world" (5.476s)
-[03:36:34] [Server thread/INFO]: Running delayed init tasks
-[03:36:34] [Craft Scheduler Thread - 0 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
-[03:36:34] [Craft Scheduler Thread - 2 - UltimateTeams/INFO]: UltimateTeams: Cleared all outstanding team invites!
-[03:36:34] [Craft Scheduler Thread - 5 - UltimateTeams/INFO]: Loaded 0 teams!
-[03:36:34] [Server thread/INFO]: There are 6 data pack(s) enabled: [vanilla (built-in)], [file/bukkit (world)], [file/BrutalNightmare-v4.zip (world)], [file/DoubleJump-2.5.zip (world)], [file/WallClimbing-3.1.1.zip (world)], [paper (built-in)]
-[03:36:34] [Server thread/INFO]: There are 1 data pack(s) available: [file/FokusAPI-2.3.zip (world)]
-[03:36:34] [Server thread/INFO]: Enabling data pack [file/FokusAPI-2.3.zip (world)]
-[03:36:38] [Server thread/INFO]: Loaded 1337 recipes
-[03:36:38] [Server thread/ERROR]: Failed to load function dbjump:nxf/5i3m
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Can't parse particle options: No key scale in MapLike[{}]; No key color in MapLike[{}]
-	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Can't parse particle options: No key scale in MapLike[{}]; No key color in MapLike[{}]
-	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 3 more
-[03:36:38] [Server thread/ERROR]: Failed to load function cw:nxf/_ignored_ag6ofx5hq0s
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
-	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
-	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 3 more
-[03:36:38] [Server thread/ERROR]: Failed to load function cw:nxf/_ignored_0f6w679
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
-	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
-	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 3 more
-[03:36:38] [Server thread/ERROR]: Failed to load function cw:nxf/_ignored_hlmb5q
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
-	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
-	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 3 more
-[03:36:38] [Server thread/ERROR]: Failed to load function cw:nxf/_ignored_9kn2crw
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
-	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
-	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 3 more
-[03:36:38] [Server thread/ERROR]: Failed to load function cw:nxf/18jqw60riq3
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 5: Can't find element 'minecraft:boat' of type 'minecraft:entity_type' at position 57: ...craft:boat<--[HERE]
-	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 5: Can't find element 'minecraft:boat' of type 'minecraft:entity_type' at position 57: ...craft:boat<--[HERE]
-	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 3 more
-[03:36:38] [Server thread/ERROR]: Failed to load function cw:nxf/_ignored_gkb02quko5q
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Can't find element 'minecraft:generic.follow_range' of type 'minecraft:attribute' at position 43: ...llow_range<--[HERE]
-	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Can't find element 'minecraft:generic.follow_range' of type 'minecraft:attribute' at position 43: ...llow_range<--[HERE]
-	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 3 more
-[03:36:38] [Server thread/ERROR]: Failed to load function cw:watermob/move
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 3: Invalid or unknown entity type 'minecraft:boat' at position 31: ...s @e[type=<--[HERE]
-	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 3: Invalid or unknown entity type 'minecraft:boat' at position 31: ...s @e[type=<--[HERE]
-	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 3 more
-[03:36:38] [Server thread/ERROR]: Failed to load function cw:nxf/_ignored_1p9ii68t6x
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
-	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
-	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 3 more
-[03:36:38] [Server thread/ERROR]: Failed to load function cw:nxf/_ignored_kcc08k2
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
-	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
-	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 3 more
-[03:36:38] [Server thread/ERROR]: Failed to load function cw:nxf/_ignored_cammsstog
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
-	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
-	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 3 more
-[03:36:38] [Server thread/ERROR]: Failed to load function cw:nxf/_ignored_ko7tsx3
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
-	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
-	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 3 more
-[03:36:38] [Server thread/ERROR]: Failed to load function cw:nxf/_ignored_x3sooj
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Can't find element 'minecraft:generic.movement_speed' of type 'minecraft:attribute' at position 35: ...ment_speed<--[HERE]
-	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Can't find element 'minecraft:generic.movement_speed' of type 'minecraft:attribute' at position 35: ...ment_speed<--[HERE]
-	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 3 more
-[03:36:38] [Server thread/ERROR]: Failed to load function cw:nxf/_ignored_r18kad
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Can't find element 'minecraft:generic.movement_speed' of type 'minecraft:attribute' at position 93: ...ment_speed<--[HERE]
-	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Can't find element 'minecraft:generic.movement_speed' of type 'minecraft:attribute' at position 93: ...ment_speed<--[HERE]
-	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 3 more
-[03:36:38] [Server thread/ERROR]: Failed to load function cw:nxf/mg2aztae
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 10: Can't find element 'minecraft:generic.knockback_resistance' of type 'minecraft:attribute' at position 51: ...resistance<--[HERE]
-	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 10: Can't find element 'minecraft:generic.knockback_resistance' of type 'minecraft:attribute' at position 51: ...resistance<--[HERE]
-	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 3 more
-[03:36:38] [Server thread/ERROR]: Failed to load function cw:nxf/_ignored_zlgdwle7
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Incorrect argument for command at position 123: ...bler] run <--[HERE]
-	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Incorrect argument for command at position 123: ...bler] run <--[HERE]
-	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 3 more
-[03:36:38] [Server thread/ERROR]: Failed to load function cw:nxf/_ignored_qpio3i
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
-	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
-	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 3 more
-[03:36:38] [Server thread/ERROR]: Failed to load function cw:nxf/_ignored_y3a5t5vt
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Can't find element 'minecraft:generic.follow_range' of type 'minecraft:attribute' at position 43: ...llow_range<--[HERE]
-	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Can't find element 'minecraft:generic.follow_range' of type 'minecraft:attribute' at position 43: ...llow_range<--[HERE]
-	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 3 more
-[03:36:38] [Server thread/ERROR]: Failed to load function cw:nxf/_ignored_jdntg
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
-	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
-	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 3 more
-[03:36:38] [Server thread/ERROR]: Failed to load function fokus:nxf/9q8wgbal
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
-	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
-	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 3 more
-[03:36:38] [Server thread/ERROR]: Failed to load function cw:nxf/_ignored_qxskf2tp7l
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown block type 'minecraft:grass' at position 23: ...ock ~ ~ ~ <--[HERE]
-	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown block type 'minecraft:grass' at position 23: ...ock ~ ~ ~ <--[HERE]
-	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 3 more
-[03:36:38] [Server thread/ERROR]: Failed to load function fokus:replace_psmob_cow
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Expected key at position 86: ...cow_psg"],<--[HERE]
-	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Expected key at position 86: ...cow_psg"],<--[HERE]
-	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 3 more
-[03:36:38] [Server thread/ERROR]: Failed to load function cw:nxf/_ignored_thm4fndti
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
-	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
-	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 3 more
-[03:36:38] [Server thread/ERROR]: Failed to load function cw:nxf/_ignored_wxd1uw
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
-	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
-	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 3 more
-[03:36:38] [Server thread/ERROR]: Failed to load function cw:nxf/_ignored_sshj
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
-	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
-	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 3 more
-[03:36:38] [Server thread/ERROR]: Failed to load function cw:nxf/_ignored_vyat55828
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
-	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
-	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 3 more
-[03:36:38] [Server thread/ERROR]: Failed to load function cw:nxf/wy7c8hn
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 10: Can't find element 'minecraft:generic.knockback_resistance' of type 'minecraft:attribute' at position 51: ...resistance<--[HERE]
-	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 10: Can't find element 'minecraft:generic.knockback_resistance' of type 'minecraft:attribute' at position 51: ...resistance<--[HERE]
-	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 3 more
-[03:36:38] [Server thread/ERROR]: Failed to load function fokus:vd/cores/1.21.4
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown block type 'minecraft:open_eyeblossom' at position 23: ...ock 0 0 0 <--[HERE]
-	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown block type 'minecraft:open_eyeblossom' at position 23: ...ock 0 0 0 <--[HERE]
-	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 3 more
-[03:36:38] [Server thread/ERROR]: Failed to load function cw:nxf/_ignored_d5cfroe88ju
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Can't find element 'minecraft:generic.movement_speed' of type 'minecraft:attribute' at position 97: ...ment_speed<--[HERE]
-	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Can't find element 'minecraft:generic.movement_speed' of type 'minecraft:attribute' at position 97: ...ment_speed<--[HERE]
-	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 3 more
-[03:36:38] [Server thread/ERROR]: Failed to load function cw:nxf/_ignored_9mlid56
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
-	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
-	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 3 more
-[03:36:38] [Server thread/ERROR]: Failed to load function cw:nxf/_ignored_yumkld
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Can't find element 'minecraft:generic.movement_speed' of type 'minecraft:attribute' at position 97: ...ment_speed<--[HERE]
-	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Can't find element 'minecraft:generic.movement_speed' of type 'minecraft:attribute' at position 97: ...ment_speed<--[HERE]
-	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 3 more
-[03:36:38] [Server thread/ERROR]: Failed to load function cw:nxf/_ignored_sao8vmp
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
-	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
-	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 3 more
-[03:36:38] [Server thread/ERROR]: Failed to load function cw:nxf/_ignored_49eurz7
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Can't find element 'minecraft:generic.movement_speed' of type 'minecraft:attribute' at position 101: ...ment_speed<--[HERE]
-	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Can't find element 'minecraft:generic.movement_speed' of type 'minecraft:attribute' at position 101: ...ment_speed<--[HERE]
-	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 3 more
-[03:36:38] [Server thread/ERROR]: Failed to load function cw:nxf/_ignored_n10kyo88
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
-	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
-	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 3 more
-[03:36:38] [Server thread/ERROR]: Failed to load function cw:nxf/_ignored_lzsy4o
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Can't find element 'minecraft:generic.movement_speed' of type 'minecraft:attribute' at position 35: ...ment_speed<--[HERE]
-	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Can't find element 'minecraft:generic.movement_speed' of type 'minecraft:attribute' at position 35: ...ment_speed<--[HERE]
-	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$3(ServerFunctionLibrary.java:92) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 3 more
-[03:36:38] [Server thread/INFO]: Loaded 1448 advancements
-[03:36:39] [Server thread/INFO]: [FokusAPI] Datapack enabled using command: datapack enable "file/FokusAPI-2.3.zip"
-[03:36:39] [Server thread/INFO]: Done (33.661s)! For help, type "help"
-[03:36:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4822ms or 96 ticks behind
-[03:36:59] [User Authenticator #0/INFO]: UUID of player xd600yu is ad24774e-c992-3e4c-9e0c-e2e893f74d49
-[03:37:01] [Server thread/INFO]: xd600yu joined the game
-[03:37:01] [Server thread/INFO]: xd600yu[/127.45.202.141:51051] logged in with entity id 32 at ([world]-8.055219625381195, 79.0, 7.399456967637876)
-[03:37:02] [Server thread/INFO]: [tps-hud] Sending handshake to xd600yu
-[03:37:08] [Craft Scheduler Thread - 6 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
-[03:37:09] [Server thread/INFO]: xd600yu issued server command: /login chimueloproo
-[03:37:16] [Server thread/INFO]: xd600yu issued server command: /plugins
-[03:37:38] [Craft Scheduler Thread - 8 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
-[03:38:08] [Craft Scheduler Thread - 10 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
-[03:38:38] [Craft Scheduler Thread - 12 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
-[03:38:53] [Server thread/INFO]: xd600yu issued server command: /gamemode creative
-[03:38:53] [Server thread/INFO]: [xd600yu: Set own game mode to Creative Mode]
-[03:39:08] [Craft Scheduler Thread - 14 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
-[03:39:25] [Server thread/INFO]: xd600yu issued server command: /spawn
-[03:39:38] [Craft Scheduler Thread - 16 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
-[03:39:41] [Server thread/INFO]: xd600yu issued server command: /sethome
-[03:39:46] [Server thread/INFO]: xd600yu issued server command: /home
-[03:39:54] [Server thread/INFO]: xd600yu issued server command: /tps
-[03:40:08] [Craft Scheduler Thread - 18 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
-[03:40:38] [Craft Scheduler Thread - 20 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
-[03:40:59] [Server thread/INFO]: xd600yu issued server command: /gamemode survival
-[03:40:59] [Server thread/INFO]: [xd600yu: Set own game mode to Survival Mode]
-[03:41:05] [Server thread/INFO]: xd600yu issued server command: /gamemode creative
-[03:41:05] [Server thread/INFO]: [xd600yu: Set own game mode to Creative Mode]
-[03:41:08] [Craft Scheduler Thread - 22 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
-[03:41:15] [Server thread/INFO]: xd600yu issued server command: /gamemode survival
-[03:41:15] [Server thread/INFO]: [xd600yu: Set own game mode to Survival Mode]
-[03:41:17] [Server thread/INFO]: xd600yu has made the advancement [Diamonds!]
-[03:41:25] [Server thread/INFO]: xd600yu issued server command: /gamemode creative
-[03:41:25] [Server thread/INFO]: [xd600yu: Set own game mode to Creative Mode]
-[03:41:38] [Craft Scheduler Thread - 25 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
-[03:41:45] [Server thread/INFO]: xd600yu issued server command: /gamemode survival
-[03:41:45] [Server thread/INFO]: [xd600yu: Set own game mode to Survival Mode]
-[03:42:08] [Craft Scheduler Thread - 26 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
-[03:42:38] [Craft Scheduler Thread - 28 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
-[03:42:47] [Server thread/INFO]: xd600yu issued server command: /plugins
-[03:43:08] [Craft Scheduler Thread - 30 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
-[03:43:11] [Server thread/INFO]: xd600yu issued server command: /help plugins
-[03:43:25] [Server thread/INFO]: xd600yu issued server command: /plugins
-[03:43:38] [Craft Scheduler Thread - 32 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
-[03:43:49] [Server thread/INFO]: xd600yu issued server command: /gamemode creative
-[03:43:49] [Server thread/INFO]: [xd600yu: Set own game mode to Creative Mode]
-[03:43:57] [Server thread/INFO]: xd600yu issued server command: /spawnpoint
-[03:43:57] [Server thread/INFO]: [xd600yu: Set spawn point to 56, 70, 110 [0.0] in minecraft:overworld for xd600yu]
-[03:44:08] [Craft Scheduler Thread - 34 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
-[03:44:15] [Server thread/INFO]: xd600yu issued server command: /kill
-[03:44:15] [Server thread/INFO]: [xd600yu: Killed xd600yu]
-[03:44:38] [Server thread/INFO]: xd600yu issued server command: /spawn
-[03:44:38] [Craft Scheduler Thread - 36 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
-[03:44:45] [Server thread/INFO]: xd600yu died
-[03:45:06] [Server thread/INFO]: xd600yu lost connection: Disconnected
-[03:45:06] [Server thread/INFO]: xd600yu left the game
-[03:45:08] [Craft Scheduler Thread - 38 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
-[03:45:38] [Craft Scheduler Thread - 40 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
-[03:45:56] [Server thread/INFO]: Stopping the server
-[03:45:56] [Server thread/INFO]: Stopping server
-[03:45:56] [Server thread/INFO]: [Wall_Climbing] Disabling Wall_Climbing v3.1.1
-[03:45:56] [Server thread/INFO]: [UltimateTeams] Disabling UltimateTeams v3.2.1
-[03:45:56] [Server thread/INFO]: -------------------------------------------
-[03:45:56] [Server thread/INFO]: UltimateTeams: Plugin by: xF3d3
-[03:45:56] [Server thread/INFO]: UltimateTeams: Plugin Version: 3.2.1
-[03:45:56] [Server thread/INFO]: UltimateTeams: Has been shutdown successfully
-[03:45:56] [Server thread/INFO]: UltimateTeams: Goodbye!
-[03:45:56] [Server thread/INFO]: -------------------------------------------
-[03:45:56] [Server thread/INFO]: [Chunky] Disabling Chunky v1.4.36
-[03:45:56] [Server thread/INFO]: [Veinminer] Disabling Veinminer v2.4.3
-[03:45:56] [Server thread/INFO]: [chairs] Disabling chairs v1.2.2
-[03:45:56] [Server thread/INFO]: [ReanimateMC] Disabling ReanimateMC v1.0
-[03:45:56] [Server thread/INFO]: [ReanimateMC] ReanimateMC désactivé !
-[03:45:56] [Server thread/INFO]: [SimpleBucketMobs] Disabling SimpleBucketMobs v1.2.1
-[03:45:56] [Server thread/INFO]: [LetUrMemoryRest] Disabling LetUrMemoryRest v4.1
-[03:45:56] [Server thread/INFO]: [LimitedLives] Disabling LimitedLives v4.0.0
-[03:45:56] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.1
-[03:45:56] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.12-beta-01+2a9a7ed
-[03:45:56] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[03:45:56] [Server thread/INFO]: [LoginTo] Disabling LoginTo v1.4-release
-[03:45:56] [Server thread/INFO]: [BoundlessForging] Disabling BoundlessForging v1.0-SNAPSHOT
-[03:45:56] [Server thread/INFO]: [XPHearts] Disabling XPHearts v1.1.1
-[03:45:56] [Server thread/INFO]: [DeathChest] Disabling DeathChest v1.3
-[03:45:56] [Server thread/INFO]: [DeathChest] Saving Death Chests
-[03:45:56] [Server thread/WARN]: [DeathChest] I'm def NOT working rn
-[03:45:56] [Server thread/INFO]: [DeathCoords] Disabling DeathCoords vV1.0
-[03:45:56] [Server thread/INFO]: [DoubleJump] Disabling DoubleJump v2.5
-[03:45:56] [Server thread/INFO]: [FokusAPI] Disabling FokusAPI v2.3
-[03:45:56] [Server thread/INFO]: [Clumps] Disabling Clumps v4.0
-[03:45:56] [Server thread/INFO]: [tps-hud] Disabling tps-hud v1.7.5+1.21.5
-[03:45:56] [Server thread/INFO]: [Brutal_Nightmare] Disabling Brutal_Nightmare v4.0
-[03:45:56] [Server thread/INFO]: [[38;5;11m⚡[0m] Disabling LagFixer v1.4.06 (build 101)
-[03:45:56] [Server thread/INFO]: [[38;5;11m⚡[0m] (ErrorsManager) -> Disabling manager...
-[03:45:56] [Server thread/INFO]: [[38;5;11m⚡[0m] (ErrorsManager) -> Disabled manager in 0ms!
-[03:45:56] [Server thread/INFO]: [[38;5;11m⚡[0m] (SupportManager) -> Disabling manager...
-[03:45:56] [Server thread/INFO]: [[38;5;11m⚡[0m] (SupportManager) -> Disabled manager in 1ms!
-[03:45:56] [Server thread/INFO]: [[38;5;11m⚡[0m] (ConfigManager) -> Disabling manager...
-[03:45:56] [Server thread/INFO]: [[38;5;11m⚡[0m] (ConfigManager) -> Disabled manager in 0ms!
-[03:45:56] [Server thread/INFO]: [[38;5;11m⚡[0m] (HookManager) -> Disabling manager...
-[03:45:56] [Server thread/INFO]: [[38;5;11m⚡[0m] (HookManager) -> Disabled manager in 0ms!
-[03:45:56] [Server thread/INFO]: [[38;5;11m⚡[0m] (MetricsManager) -> Disabling manager...
-[03:45:56] [Server thread/INFO]: [[38;5;11m⚡[0m] (MetricsManager) -> Disabled manager in 0ms!
-[03:45:56] [Server thread/INFO]: [[38;5;11m⚡[0m] (UpdaterManager) -> Disabling manager...
-[03:45:56] [Server thread/INFO]: [[38;5;11m⚡[0m] (UpdaterManager) -> Disabled manager in 1ms!
-[03:45:56] [Server thread/INFO]: [[38;5;11m⚡[0m] (ModuleManager) -> Disabling manager...
-[03:45:56] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module InstantLeafDecay in 1ms.
-[03:45:56] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module VehicleMotionReducer in 0ms.
-[03:45:56] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module LagMonitor in 0ms.
-[03:45:56] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module MobAiReducer in 0ms.
-[03:45:56] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module RedstoneLimiter in 0ms.
-[03:45:56] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module EntityLimiter in 0ms.
-[03:45:56] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module WorldCleaner in 0ms.
-[03:45:56] [Server thread/INFO]: [[38;5;11m⚡[0m] (ModuleManager) -> Disabled manager in 4ms!
-[03:45:56] [Server thread/INFO]: [[38;5;11m⚡[0m] (CommandManager) -> Disabling manager...
-[03:45:56] [Server thread/INFO]: [[38;5;11m⚡[0m] (CommandManager) -> Disabled manager in 0ms!
-[03:45:56] [Server thread/INFO]: Saving players
-[03:45:56] [Server thread/INFO]: Saving worlds
-[03:45:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03:45:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[03:45:56] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[03:45:56] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[03:45:56] [Server thread/INFO]: [ChunkHolderManager] Saved 76 block chunks, 156 entity chunks, 0 poi chunks in world 'world' in 0.18s
-[03:45:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[03:45:56] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[03:45:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[03:45:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[03:45:56] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[03:45:56] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[03:45:56] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 5 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
-[03:45:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[03:45:56] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[03:45:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[03:45:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[03:45:56] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[03:45:56] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[03:45:56] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[03:45:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[03:45:56] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[03:45:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:45:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:45:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:45:56] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[03:45:56] [Server thread/INFO]: Waiting for I/O tasks to complete...
-[03:45:56] [Server thread/INFO]: All I/O tasks to complete
-[03:45:56] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[03:45:56] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[04:27:36] [Server thread/INFO]: [[38;5;11m⚡[0m] (ErrorsManager) -> Enabling manager...
+[04:27:36] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Started listening for console LagFixer errors!
+[04:27:36] [Server thread/INFO]: [[38;5;11m⚡[0m] (ErrorsManager) -> Enabled manager in 1ms!
+[04:27:36] [Server thread/INFO]: [[38;5;11m⚡[0m] (SupportManager) -> Enabling manager...
+[04:27:36] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Loaded fork support ~ xyz.lychee.lagfixer.support.Paper
+[04:27:36] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Loaded nms support ~ xyz.lychee.lagfixer.nms.v1_21_R2.SupportNms
+[04:27:36] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Loaded creatures 23 to creature container!
+[04:27:36] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Loaded items 0 to item container!
+[04:27:36] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Loaded projectiles 0 to projectile container!
+[04:27:36] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Loaded vehicles 6 to vehicle container!
+[04:27:36] [Server thread/INFO]: [[38;5;11m⚡[0m] (SupportManager) -> Enabled manager in 20ms!
+[04:27:36] [Server thread/INFO]: [[38;5;11m⚡[0m] (ConfigManager) -> Enabling manager...
+[04:27:36] [Server thread/INFO]: [[38;5;11m⚡[0m] (ConfigManager) -> Enabled manager in 63ms!
+[04:27:36] [Server thread/INFO]: [[38;5;11m⚡[0m] (HookManager) -> Enabling manager...
+[04:27:36] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Skipping hook WildStacker, reason: Plugin not found
+[04:27:36] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Skipping hook UltimateStacker, reason: Plugin not found
+[04:27:36] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Skipping hook spark, reason: Plugin not found
+[04:27:36] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Skipping hook RoseStacker, reason: Plugin not found
+[04:27:36] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Skipping hook PlaceholderAPI, reason: Plugin not found
+[04:27:36] [Server thread/INFO]: [[38;5;11m⚡[0m] (HookManager) -> Enabled manager in 0ms!
+[04:27:36] [Server thread/INFO]: [[38;5;11m⚡[0m] (MetricsManager) -> Enabling manager...
+[04:27:36] [Server thread/INFO]: [[38;5;11m⚡[0m] (MetricsManager) -> Enabled manager in 6ms!
+[04:27:36] [Server thread/INFO]: [[38;5;11m⚡[0m] (UpdaterManager) -> Enabling manager...
+[04:27:36] [Server thread/INFO]: [[38;5;11m⚡[0m] (UpdaterManager) -> Enabled manager in 1ms!
+[04:27:36] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:27:36] [Server thread/INFO]: [[38;5;11m⚡[0m] (ModuleManager) -> Enabling manager...
+[04:27:36] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully loaded module EntityLimiter in 3ms.
+[04:27:36] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully loaded module InstantLeafDecay in 0ms.
+[04:27:36] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully loaded module RedstoneLimiter in 3ms.
+[04:27:36] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully loaded module MobAiReducer in 17ms.
+[04:27:36] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully loaded module LagMonitor in 3ms.
+[04:27:36] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully loaded module WorldCleaner in 6ms.
+[04:27:36] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully loaded module VehicleMotionReducer in 9ms.
+[04:27:36] [Server thread/INFO]: [[38;5;11m⚡[0m] (ModuleManager) -> Enabled manager in 100ms!
+[04:27:36] [Server thread/INFO]: [[38;5;11m⚡[0m] (CommandManager) -> Enabling manager...
+[04:27:36] [Server thread/INFO]: [[38;5;11m⚡[0m] (CommandManager) -> Enabled manager in 139ms!
+[04:27:36] [Server thread/INFO]: [[38;5;11m⚡[0m] Remember to leave a rating! ★ ★ ★ ★ ★
+[04:27:36] [Server thread/INFO]: [Brutal_Nightmare] Enabling Brutal_Nightmare v4.0
+[04:27:36] [Server thread/INFO]: [Brutal_Nightmare] DatapackDownloader Plugin Enabled!
+[04:27:36] [Server thread/INFO]: [Brutal_Nightmare] Datapack already exists. Skipping download.
+[04:27:36] [Server thread/INFO]: [JustTPA] Enabling JustTPA v20250220c
+[04:27:36] [Server thread/INFO]: [JustTPA] JustTPA initialized
+[04:27:36] [Server thread/INFO]: [JustTPA] bStats enabled
+[04:27:36] [Server thread/INFO]: [JustTPA] Checking for updates...
+[04:27:36] [Server thread/INFO]: [tps-hud] Enabling tps-hud v1.7.5+1.21.5
+[04:27:36] [Server thread/INFO]: [TabLocation] Enabling TabLocation v1.6.0
+[04:27:36] [Server thread/INFO]: ===================================
+[04:27:36] [Server thread/INFO]: TabLocation has been enabled!
+[04:27:36] [Server thread/INFO]: Version 1.6.0
+[04:27:36] [Server thread/INFO]: Developed with 💗 by Juliette Cordor
+[04:27:36] [Server thread/INFO]: ===================================
+[04:27:36] [Server thread/INFO]: [FokusAPI] Enabling FokusAPI v2.3
+[04:27:36] [Server thread/INFO]: [FokusAPI] DatapackDownloader Plugin Enabled!
+[04:27:36] [Server thread/INFO]: [FokusAPI] Datapack already exists. Skipping download.
+[04:27:36] [Server thread/INFO]: [DoubleJump] Enabling DoubleJump v2.5
+[04:27:36] [Server thread/INFO]: [DoubleJump] DatapackDownloader Plugin Enabled!
+[04:27:36] [Server thread/INFO]: [DoubleJump] Datapack already exists. Skipping download.
+[04:27:36] [Server thread/INFO]: [DeathCoords] Enabling DeathCoords vV1.0
+[04:27:36] [Server thread/INFO]: [SetSpawn] Enabling SetSpawn v3.1
+[04:27:36] [Server thread/INFO]: 
+[04:27:36] [Server thread/INFO]: ---------------------------------------
+[04:27:36] [Server thread/INFO]:      Thank You For Using SetSpawn!
+[04:27:36] [Server thread/INFO]: ---------------------------------------
+[04:27:36] [Server thread/INFO]: 
+[04:27:36] [Server thread/INFO]: Thank you for supporting me via Modrinth!
+[04:27:36] [Server thread/INFO]: 
+[04:27:36] [Server thread/INFO]: [DeathChest] Enabling DeathChest v1.3
+[04:27:36] [Server thread/INFO]: [DeathChest] I might be working
+[04:27:36] [Server thread/INFO]: [DeathChest] Loaded Death Chests
+[04:27:36] [Server thread/WARN]: [DeathChest] /coords disabled
+[04:27:36] [Server thread/INFO]: [XPHearts] Enabling XPHearts v1.1.1
+[04:27:36] [Server thread/INFO]: [BoundlessForging] Enabling BoundlessForging v1.0-SNAPSHOT
+[04:27:36] [Server thread/INFO]: [InstantRestock] Enabling InstantRestock v2.5.1
+[04:27:36] [Server thread/INFO]: [InfiniteVillagerTrades] Enabled InstantRestock!
+[04:27:36] [Server thread/INFO]: [LimitedLives] Enabling LimitedLives v4.0.0
+[04:27:36] [Server thread/INFO]: [LimitedLives] -------------------
+[04:27:36] [Server thread/INFO]: [LimitedLives] LimitedLives v4.0.0
+[04:27:36] [Server thread/INFO]: [LimitedLives] By srnyx
+[04:27:36] [Server thread/INFO]: [LimitedLives] -------------------
+[04:27:37] [Server thread/INFO]: [LetUrMemoryRest] Enabling LetUrMemoryRest v4.1
+[04:27:37] [Server thread/INFO]: [SimpleBucketMobs] Enabling SimpleBucketMobs v1.2.1
+[04:27:37] [Server thread/INFO]: [ReanimateMC] Enabling ReanimateMC v1.0*
+[04:27:37] [Server thread/INFO]: [ReanimateMC] ReanimateMC activé !
+[04:27:37] [Server thread/INFO]: [chairs] Enabling chairs v1.2.2
+[04:27:37] [Server thread/INFO]: [AutoTreeChop] Enabling AutoTreeChop v1.6.1
+[04:27:37] [Server thread/WARN]: [AutoTreeChop] PlaceholderAPI not found. Placeholder expansion for AutoTreeChop will not work.
+[04:27:37] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.36
+[04:27:37] [Server thread/INFO]: [Xhomes] Enabling Xhomes v2.1
+[04:27:37] [Server thread/INFO]: [Xhomes] Xhomes has been enabled!
+[04:27:37] [Server thread/INFO]: [UltimateTeams] Enabling UltimateTeams v3.2.1
+[04:27:37] [Server thread/INFO]: [UltimateTeams] [ACF] Enabled Asynchronous Tab Completion Support!
+[04:27:37] [Server thread/INFO]: [UltimateTeams] Initializing plugin config & locale files...
+[04:27:38] [Server thread/INFO]: [UltimateTeams] Successfully initialized plugin config & locale files
+[04:27:38] [Server thread/INFO]: [UltimateTeams] Initializing SQLite database connection...
+[04:27:38] [Server thread/INFO]: [UltimateTeams] Database tables created
+[04:27:38] [Server thread/INFO]: [UltimateTeams] Successfully initialized SQLite database connection
+[04:27:38] [Server thread/INFO]: [UltimateTeams] Initializing commands...
+[04:27:38] [Server thread/INFO]: [UltimateTeams] Successfully initialized commands
+[04:27:38] [Server thread/INFO]: [UltimateTeams] Initializing events...
+[04:27:38] [Server thread/INFO]: [UltimateTeams] Successfully initialized events
+[04:27:38] [Server thread/INFO]: [UltimateTeams] Initializing teams...
+[04:27:38] [Server thread/INFO]: [UltimateTeams] Successfully initialized teams
+[04:27:38] [Server thread/INFO]: -------------------------------------------
+[04:27:38] [Server thread/INFO]: UltimateTeams: PlaceholderAPI not found!
+[04:27:38] [Server thread/INFO]: UltimateTeams: External placeholders disabled!
+[04:27:38] [Server thread/INFO]: -------------------------------------------
+[04:27:38] [Server thread/INFO]: -------------------------------------------
+[04:27:38] [Server thread/INFO]: UltimateTeams: FloodgateApi not found/feature disabled!
+[04:27:38] [Server thread/INFO]: UltimateTeams: Bedrock support won't work!
+[04:27:38] [Server thread/INFO]: -------------------------------------------
+[04:27:38] [Server thread/INFO]: [UltimateTeams] Initializing metrics...
+[04:27:38] [Server thread/INFO]: [UltimateTeams] Successfully initialized metrics
+[04:27:38] [Server thread/INFO]: [Wall_Climbing] Enabling Wall_Climbing v3.1.1
+[04:27:38] [Server thread/INFO]: [Wall_Climbing] DatapackDownloader Plugin Enabled!
+[04:27:38] [Server thread/INFO]: [Wall_Climbing] Datapack already exists. Skipping download.
+[04:27:38] [Server thread/INFO]: [spark] Starting background profiler...
+[04:27:38] [Server thread/INFO]: Done preparing level "world" (5.232s)
+[04:27:38] [Server thread/INFO]: Running delayed init tasks
+[04:27:38] [Craft Scheduler Thread - 0 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[04:27:38] [Craft Scheduler Thread - 6 - UltimateTeams/INFO]: UltimateTeams: Cleared all outstanding team invites!
+[04:27:38] [Craft Scheduler Thread - 4 - UltimateTeams/INFO]: Loaded 0 teams!
+[04:27:38] [Server thread/INFO]: Done (30.635s)! For help, type "help"
+[04:27:39] [Craft Scheduler Thread - 3 - JustTPA/INFO]: [JustTPA] You are using the latest version for your server.
+[04:27:54] [User Authenticator #0/INFO]: UUID of player xd600yu is ad24774e-c992-3e4c-9e0c-e2e893f74d49
+[04:27:55] [Server thread/INFO]: xd600yu joined the game
+[04:27:55] [Server thread/INFO]: xd600yu[/127.45.202.141:53079] logged in with entity id 34 at ([world]45.381026758557354, 70.0, 144.14023091283767)
+[04:27:56] [Server thread/INFO]: [org.milkteamc.autotreechop.libs.hikari.HikariDataSource] HikariPool-1 - Starting...
+[04:27:56] [Server thread/INFO]: [org.milkteamc.autotreechop.libs.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[04:27:57] [Server thread/INFO]: [tps-hud] Sending handshake to xd600yu
+[04:28:07] [Server thread/INFO]: xd600yu issued server command: /login chimueloproo
+[04:28:08] [Craft Scheduler Thread - 5 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[04:28:38] [Craft Scheduler Thread - 1 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[04:28:41] [Server thread/INFO]: xd600yu issued server command: /spawn
+[04:28:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2984ms or 59 ticks behind
+[04:29:07] [Server thread/INFO]: xd600yu issued server command: /setworldspawn
+[04:29:07] [Server thread/INFO]: [xd600yu: Set the world spawn point to 88, 88, 186 [0.0]]
+[04:29:10] [Server thread/INFO]: xd600yu issued server command: /spawn
+[04:29:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2961ms or 59 ticks behind
+[04:29:14] [Craft Scheduler Thread - 1 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[04:29:15] [Server thread/INFO]: xd600yu issued server command: /spawn
+[04:29:29] [Server thread/INFO]: xd600yu issued server command: /spawnpoint
+[04:29:29] [Server thread/INFO]: [xd600yu: Set spawn point to 86, 86, 188 [0.0] in minecraft:overworld for xd600yu]
+[04:29:34] [Server thread/INFO]: xd600yu issued server command: /spawn
+[04:29:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2967ms or 59 ticks behind
+[04:29:40] [Server thread/INFO]: xd600yu issued server command: /spawn
+[04:29:45] [Server thread/INFO]: xd600yu issued server command: /spawn
+[04:29:48] [Craft Scheduler Thread - 11 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[04:29:56] [Server thread/INFO]: xd600yu lost connection: Disconnected
+[04:29:56] [Server thread/INFO]: xd600yu left the game
+[04:30:09] [User Authenticator #1/INFO]: UUID of player xd600yu is ad24774e-c992-3e4c-9e0c-e2e893f74d49
+[04:30:10] [Server thread/INFO]: xd600yu joined the game
+[04:30:10] [Server thread/INFO]: xd600yu[/127.45.202.141:52393] logged in with entity id 582 at ([world]77.37499428527443, 68.36814044116925, 196.96899544562433)
+[04:30:12] [Server thread/INFO]: [tps-hud] Sending handshake to xd600yu
+[04:30:14] [Server thread/INFO]: xd600yu issued server command: /login chimueloproo
+[04:30:17] [Craft Scheduler Thread - 10 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[04:30:23] [Server thread/INFO]: xd600yu issued server command: /gm c
+[04:30:29] [Server thread/INFO]: xd600yu issued server command: /gamemode
+[04:30:37] [Server thread/INFO]: xd600yu issued server command: /gamemode survival
+[04:30:37] [Server thread/INFO]: [xd600yu: Set own game mode to Survival Mode]
+[04:30:47] [Craft Scheduler Thread - 10 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[04:31:12] [Server thread/INFO]: xd600yu lost connection: Disconnected
+[04:31:12] [Server thread/INFO]: xd600yu left the game
+[04:31:17] [Craft Scheduler Thread - 14 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[04:31:19] [Server thread/INFO]: Stopping the server
+[04:31:19] [Server thread/INFO]: Stopping server
+[04:31:19] [Server thread/INFO]: [Wall_Climbing] Disabling Wall_Climbing v3.1.1
+[04:31:19] [Server thread/INFO]: [UltimateTeams] Disabling UltimateTeams v3.2.1
+[04:31:19] [Server thread/INFO]: -------------------------------------------
+[04:31:19] [Server thread/INFO]: UltimateTeams: Plugin by: xF3d3
+[04:31:19] [Server thread/INFO]: UltimateTeams: Plugin Version: 3.2.1
+[04:31:19] [Server thread/INFO]: UltimateTeams: Has been shutdown successfully
+[04:31:19] [Server thread/INFO]: UltimateTeams: Goodbye!
+[04:31:19] [Server thread/INFO]: -------------------------------------------
+[04:31:19] [Server thread/INFO]: [Xhomes] Disabling Xhomes v2.1
+[04:31:19] [Server thread/INFO]: [Chunky] Disabling Chunky v1.4.36
+[04:31:19] [Server thread/INFO]: [AutoTreeChop] Disabling AutoTreeChop v1.6.1
+[04:31:19] [Server thread/INFO]: [Veinminer] Disabling Veinminer v2.4.3
+[04:31:19] [Server thread/INFO]: [chairs] Disabling chairs v1.2.2
+[04:31:19] [Server thread/INFO]: [ReanimateMC] Disabling ReanimateMC v1.0
+[04:31:19] [Server thread/INFO]: [ReanimateMC] ReanimateMC désactivé !
+[04:31:19] [Server thread/INFO]: [SimpleBucketMobs] Disabling SimpleBucketMobs v1.2.1
+[04:31:19] [Server thread/INFO]: [LetUrMemoryRest] Disabling LetUrMemoryRest v4.1
+[04:31:19] [Server thread/INFO]: [LimitedLives] Disabling LimitedLives v4.0.0
+[04:31:19] [Server thread/INFO]: [InstantRestock] Disabling InstantRestock v2.5.1
+[04:31:19] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.1
+[04:31:19] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.12-beta-01+2a9a7ed
+[04:31:19] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[04:31:19] [Server thread/INFO]: [LoginTo] Disabling LoginTo v1.4-release
+[04:31:19] [Server thread/INFO]: [BoundlessForging] Disabling BoundlessForging v1.0-SNAPSHOT
+[04:31:19] [Server thread/INFO]: [XPHearts] Disabling XPHearts v1.1.1
+[04:31:19] [Server thread/INFO]: [DeathChest] Disabling DeathChest v1.3
+[04:31:19] [Server thread/INFO]: [DeathChest] Saving Death Chests
+[04:31:19] [Server thread/WARN]: [DeathChest] I'm def NOT working rn
+[04:31:19] [Server thread/INFO]: [SetSpawn] Disabling SetSpawn v3.1
+[04:31:19] [Server thread/INFO]: 
+[04:31:19] [Server thread/INFO]: ---------------------------------------
+[04:31:19] [Server thread/INFO]:                 Goodbye!
+[04:31:19] [Server thread/INFO]: ---------------------------------------
+[04:31:19] [Server thread/INFO]: 
+[04:31:19] [Server thread/INFO]: [DeathCoords] Disabling DeathCoords vV1.0
+[04:31:19] [Server thread/INFO]: [DoubleJump] Disabling DoubleJump v2.5
+[04:31:19] [Server thread/INFO]: [FokusAPI] Disabling FokusAPI v2.3
+[04:31:19] [Server thread/INFO]: [TabLocation] Disabling TabLocation v1.6.0
+[04:31:19] [Server thread/INFO]: ===================================
+[04:31:19] [Server thread/INFO]: Plugin has been disabled!
+[04:31:19] [Server thread/INFO]: Thank you for using TabLocation!
+[04:31:19] [Server thread/INFO]: ===================================
+[04:31:19] [Server thread/INFO]: [Clumps] Disabling Clumps v4.0
+[04:31:19] [Server thread/INFO]: [tps-hud] Disabling tps-hud v1.7.5+1.21.5
+[04:31:19] [Server thread/INFO]: [nightcore] Disabling nightcore v2.7.4
+[04:31:19] [Server thread/INFO]: [JustTPA] Disabling JustTPA v20250220c
+[04:31:19] [Server thread/INFO]: [JustTPA] JustTPA disabled
+[04:31:19] [Server thread/INFO]: [Brutal_Nightmare] Disabling Brutal_Nightmare v4.0
+[04:31:19] [Server thread/INFO]: [[38;5;11m⚡[0m] Disabling LagFixer v1.4.06 (build 101)
+[04:31:19] [Server thread/INFO]: [[38;5;11m⚡[0m] (ErrorsManager) -> Disabling manager...
+[04:31:19] [Server thread/INFO]: [[38;5;11m⚡[0m] (ErrorsManager) -> Disabled manager in 0ms!
+[04:31:19] [Server thread/INFO]: [[38;5;11m⚡[0m] (SupportManager) -> Disabling manager...
+[04:31:19] [Server thread/INFO]: [[38;5;11m⚡[0m] (SupportManager) -> Disabled manager in 0ms!
+[04:31:19] [Server thread/INFO]: [[38;5;11m⚡[0m] (ConfigManager) -> Disabling manager...
+[04:31:19] [Server thread/INFO]: [[38;5;11m⚡[0m] (ConfigManager) -> Disabled manager in 0ms!
+[04:31:19] [Server thread/INFO]: [[38;5;11m⚡[0m] (HookManager) -> Disabling manager...
+[04:31:19] [Server thread/INFO]: [[38;5;11m⚡[0m] (HookManager) -> Disabled manager in 0ms!
+[04:31:19] [Server thread/INFO]: [[38;5;11m⚡[0m] (MetricsManager) -> Disabling manager...
+[04:31:19] [Server thread/INFO]: [[38;5;11m⚡[0m] (MetricsManager) -> Disabled manager in 0ms!
+[04:31:19] [Server thread/INFO]: [[38;5;11m⚡[0m] (UpdaterManager) -> Disabling manager...
+[04:31:19] [Server thread/INFO]: [[38;5;11m⚡[0m] (UpdaterManager) -> Disabled manager in 1ms!
+[04:31:19] [Server thread/INFO]: [[38;5;11m⚡[0m] (ModuleManager) -> Disabling manager...
+[04:31:19] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module EntityLimiter in 1ms.
+[04:31:19] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module InstantLeafDecay in 0ms.
+[04:31:19] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module RedstoneLimiter in 0ms.
+[04:31:19] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module MobAiReducer in 1ms.
+[04:31:19] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module LagMonitor in 0ms.
+[04:31:19] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module WorldCleaner in 0ms.
+[04:31:19] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module VehicleMotionReducer in 0ms.
+[04:31:19] [Server thread/INFO]: [[38;5;11m⚡[0m] (ModuleManager) -> Disabled manager in 3ms!
+[04:31:19] [Server thread/INFO]: [[38;5;11m⚡[0m] (CommandManager) -> Disabling manager...
+[04:31:19] [Server thread/INFO]: [[38;5;11m⚡[0m] (CommandManager) -> Disabled manager in 0ms!
+[04:31:19] [Server thread/INFO]: Saving players
+[04:31:19] [Server thread/INFO]: Saving worlds
+[04:31:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:31:19] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[04:31:19] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[04:31:19] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[04:31:20] [Server thread/INFO]: [ChunkHolderManager] Saved 841 block chunks, 808 entity chunks, 4 poi chunks in world 'world' in 1.61s
+[04:31:20] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[04:31:20] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[04:31:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[04:31:21] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[04:31:21] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[04:31:21] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[04:31:21] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_nether' in 0.07s
+[04:31:21] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[04:31:21] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[04:31:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[04:31:21] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[04:31:21] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[04:31:21] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[04:31:21] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_the_end' in 0.04s
+[04:31:21] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[04:31:21] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[04:31:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:31:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:31:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:31:21] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:31:21] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[04:31:21] [Server thread/INFO]: All I/O tasks to complete
+[04:31:21] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[04:31:21] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
