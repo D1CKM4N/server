@@ -1,0 +1,45 @@
+# LetUrMemoryRest Configuration File
+# Author: Aadinath aka BloodRed
+# Community Support: https://dsc.gg/kmds
+# Personal Support: https://www.instagram.com/aadi.or.whtt
+
+memory:
+  cleanup-interval: 600
+  skip-when-ram-usage-is-in-percentage: 0
+  ram-warning-threshold: 75.0
+  ram-critical-threshold: 90.0
+  aggressive-cleanup-threshold: 85
+  chunk-unload-frequency: 1200
+
+logs:
+  enabled: true
+  more-detailed: false
+
+redstone:
+  max-per-area: 100
+  check-chunk-on-start: true
+  slowdown:
+    enabled: false
+    ticks: 20
+
+explosions:
+  enabled: true
+  limit-blocks: -1
+  clear-drops: false
+  slowdown-ticks: 2
+  drop-chance: 30
+  ignored-explosions: []
+
+chunk:
+  unload-inactive: true
+  unload-delay-in-ticks: 6000
+
+dynamic-adjustment:
+  enabled: true
+  min-cleanup-interval: 100
+  min-chunk-unload-interval: 1000
+
+updates:
+  enabled: true
+  ignore-alpha: true
+  ignore-beta: true

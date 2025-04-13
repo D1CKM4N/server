@@ -1,0 +1,335 @@
+###
+# texture.yml
+# ---
+# Designate the Custom Model Data here.
+# See the README on https://github.com/ADHDMC/SimpleBucketMobs for details.
+# ---
+# MOB:
+#   default: "simplexity:bucket_mobs/{custom model data}
+#   {nbtKey}:
+#     ...
+#     {nbtValue}: {custom model data}
+###
+ALLAY:
+  default: "simplexity:bucket_mobs/misc/allay"
+ARMADILLO:
+  default: "simplexity:bucket_mobs/misc/armadillo"
+BAT:
+  default: "simplexity:bucket_mobs/misc/bat"
+BEE:
+  default: "simplexity:bucket_mobs/misc/bee"
+BLAZE:
+  default: "simplexity:bucket_mobs/misc/blaze"
+BOGGED:
+  default: "simplexity:bucket_mobs/skeleton/bogged"
+BREEZE:
+  default: "simplexity:bucket_mobs/misc/breeze"
+CAMEL:
+  default: "simplexity:bucket_mobs/misc/camel"
+CAT:
+  default: "simplexity:bucket_mobs/cat/black"
+  variant:
+    "minecraft:tabby": "simplexity:bucket_mobs/cat/tabby"
+    "minecraft:black": "simplexity:bucket_mobs/cat/black"
+    "minecraft:red": "simplexity:bucket_mobs/cat/red"
+    "minecraft:siamese": "simplexity:bucket_mobs/cat/siamese"
+    "minecraft:british_shorthair": "simplexity:bucket_mobs/cat/british_shorthair"
+    "minecraft:calico": "simplexity:bucket_mobs/cat/calico"
+    "minecraft:persian": "simplexity:bucket_mobs/cat/persian"
+    "minecraft:ragdoll": "simplexity:bucket_mobs/cat/ragdoll"
+    "minecraft:white": "simplexity:bucket_mobs/cat/white"
+    "minecraft:jellie": "simplexity:bucket_mobs/cat/jellie"
+    "minecraft:all_black": "simplexity:bucket_mobs/cat/all_black"
+CAVE_SPIDER:
+  default: "simplexity:bucket_mobs/misc/cave_spider"
+CHICKEN:
+  default: "simplexity:bucket_mobs/misc/chicken"
+COW:
+  default: "simplexity:bucket_mobs/cow/cow"
+CREAKING:
+  default: "simplexity:bucket_mobs/misc/creaking"
+CREEPER:
+  default: "simplexity:bucket_mobs/misc/creeper"
+  powered:
+    1b: "simplexity:bucket_mobs/misc/charged_creeper"
+DOLPHIN:
+  default: "simplexity:bucket_mobs/misc/dolphin"
+DONKEY:
+  default: "simplexity:bucket_mobs/horse/donkey_default"
+DROWNED:
+  default: "simplexity:bucket_mobs/zombie/drowned"
+ELDER_GUARDIAN:
+  default: "simplexity:bucket_mobs/misc/elder_guardian"
+ENDER_DRAGON:
+  default: "simplexity:bucket_mobs/misc/ender_dragon"
+ENDERMAN:
+  default: "simplexity:bucket_mobs/misc/enderman"
+ENDERMITE:
+  default: "simplexity:bucket_mobs/misc/endermite"
+EVOKER:
+  default: "simplexity:bucket_mobs/illager/evoker"
+FOX:
+  default: "simplexity:bucket_mobs/misc/fox"
+  Type:
+    red: "simplexity:bucket_mobs/misc/fox"
+    snow: "simplexity:bucket_mobs/misc/snow_fox"
+FROG:
+  default: "simplexity:bucket_mobs/frog/cold"
+  variant:
+    "minecraft:cold": "simplexity:bucket_mobs/frog/cold"
+    "minecraft:temperate": "simplexity:bucket_mobs/frog/temperate"
+    "minecraft:warm": "simplexity:bucket_mobs/frog/warm"
+GHAST:
+  default: "simplexity:bucket_mobs/misc/ghast"
+GLOW_SQUID:
+  default: "simplexity:bucket_mobs/misc/glow_squid"
+GOAT:
+  default: "simplexity:bucket_mobs/misc/goat"
+GIANT:
+  default: "simplexity:bucket_mobs/zombie/zombie"
+GUARDIAN:
+  default: "simplexity:bucket_mobs/misc/guardian"
+HOGLIN:
+  default: "simplexity:bucket_mobs/misc/hoglin"
+HORSE:
+  default: "simplexity:bucket_mobs/horse/brown_default"
+  Variant:
+    0: "simplexity:bucket_mobs/horse/white_default"
+    1: "simplexity:bucket_mobs/horse/creamy_default"
+    2: "simplexity:bucket_mobs/horse/chestnut_default"
+    3: "simplexity:bucket_mobs/horse/brown_default"
+    4: "simplexity:bucket_mobs/horse/black_default"
+    5: "simplexity:bucket_mobs/horse/gray_default"
+    6: "simplexity:bucket_mobs/horse/dark_brown_default"
+    256: "simplexity:bucket_mobs/horse/white_white_stockings_and_blaze"
+    257: "simplexity:bucket_mobs/horse/creamy_white_stockings_and_blaze"
+    258: "simplexity:bucket_mobs/horse/chestnut_white_stockings_and_blaze"
+    259: "simplexity:bucket_mobs/horse/brown_white_stockings_and_blaze"
+    260: "simplexity:bucket_mobs/horse/black_white_stockings_and_blaze"
+    261: "simplexity:bucket_mobs/horse/gray_white_stockings_and_blaze"
+    262: "simplexity:bucket_mobs/horse/dark_brown_white_stockings_and_blaze"
+    512: "simplexity:bucket_mobs/horse/white_white_field"
+    513: "simplexity:bucket_mobs/horse/creamy_white_field"
+    514: "simplexity:bucket_mobs/horse/chestnut_white_field"
+    515: "simplexity:bucket_mobs/horse/brown_white_field"
+    516: "simplexity:bucket_mobs/horse/black_white_field"
+    517: "simplexity:bucket_mobs/horse/gray_white_field"
+    518: "simplexity:bucket_mobs/horse/dark_brown_white_field"
+    768: "simplexity:bucket_mobs/horse/white_white_spots"
+    769: "simplexity:bucket_mobs/horse/creamy_white_spots"
+    770: "simplexity:bucket_mobs/horse/chestnut_white_spots"
+    771: "simplexity:bucket_mobs/horse/brown_white_spots"
+    772: "simplexity:bucket_mobs/horse/black_white_spots"
+    773: "simplexity:bucket_mobs/horse/gray_white_spots"
+    774: "simplexity:bucket_mobs/horse/dark_brown_spots"
+    1024: "simplexity:bucket_mobs/horse/white_default"
+    1025: "simplexity:bucket_mobs/horse/creamy_default"
+    1026: "simplexity:bucket_mobs/horse/chestnut_default"
+    1027: "simplexity:bucket_mobs/horse/brown_default"
+    1028: "simplexity:bucket_mobs/horse/black_default"
+    1029: "simplexity:bucket_mobs/horse/gray_default"
+    1030: "simplexity:bucket_mobs/horse/dark_brown_default"
+HUSK:
+  default: "simplexity:bucket_mobs/zombie/husk"
+ILLUSIONER:
+  default: "simplexity:bucket_mobs/illager/illusioner"
+IRON_GOLEM:
+  default: "simplexity:bucket_mobs/misc/iron_golem"
+LLAMA:
+  default: "simplexity:bucket_mobs/llama/brown_default"
+  Variant:
+    0: "simplexity:bucket_mobs/llama/creamy_default"    # Creamy
+    1: "simplexity:bucket_mobs/llama/white_default"    # White
+    2: "simplexity:bucket_mobs/llama/brown_default"    # Brown
+    3: "simplexity:bucket_mobs/llama/gray_default"    # Gray
+MAGMA_CUBE:
+  default: "simplexity:bucket_mobs/misc/magma_cube"
+MULE:
+  default: "simplexity:bucket_mobs/horse/mule_default"
+MUSHROOM_COW:
+  default: "simplexity:bucket_mobs/cow/mooshroom"
+  Type:
+    red: "simplexity:bucket_mobs/cow/mooshroom"
+    brown: "simplexity:bucket_mobs/cow/brown_mooshroom"
+OCELOT:
+  default: "simplexity:bucket_mobs/cat/ocelot"
+PANDA:
+  default: "simplexity:bucket_mobs/panda/panda"
+PARROT:
+  default: "simplexity:bucket_mobs/parrot/red_blue"
+  Variant:
+    0: "simplexity:bucket_mobs/parrot/red_blue"    # Red Blue
+    1: "simplexity:bucket_mobs/parrot/blue"   # Blue
+    2: "simplexity:bucket_mobs/parrot/green"    # Green
+    3: "simplexity:bucket_mobs/parrot/yellow_blue"   # Yellow Blue
+    4: "simplexity:bucket_mobs/parrot/gray"    # Gray
+PHANTOM:
+  default: "simplexity:bucket_mobs/misc/phantom"
+PIG:
+  default: "simplexity:bucket_mobs/misc/pig"
+PIGLIN_BRUTE:
+  default: "simplexity:bucket_mobs/piglin/piglin_brute"
+PIGLIN:
+  default: "simplexity:bucket_mobs/piglin/piglin"
+PILLAGER:
+  default: "simplexity:bucket_mobs/illager/pillager"
+POLAR_BEAR:
+  default: "simplexity:bucket_mobs/misc/polar_bear"
+RABBIT:
+  default: "simplexity:bucket_mobs/rabbit/brown"
+  RabbitType:
+    0: "simplexity:bucket_mobs/rabbit/brown"    # Brown
+    1: "simplexity:bucket_mobs/rabbit/white"    # White
+    2: "simplexity:bucket_mobs/rabbit/black"    # Black
+    3: "simplexity:bucket_mobs/rabbit/white_splotched"    # White Splotched
+    4: "simplexity:bucket_mobs/rabbit/gold"    # Gold
+    5: "simplexity:bucket_mobs/rabbit/toast"    # Salt and Pepper
+    99: "simplexity:bucket_mobs/rabbit/caerbannog"   # Evil / Killer
+RAVAGER:
+  default: "simplexity:bucket_mobs/illager/ravager"
+SHEEP:
+  default: "simplexity:bucket_mobs/sheep/white"
+  Color:
+    0b: "simplexity:bucket_mobs/sheep/white"      # White
+    1b: "simplexity:bucket_mobs/sheep/orange"     # Orange
+    2b: "simplexity:bucket_mobs/sheep/magenta"    # Magenta
+    3b: "simplexity:bucket_mobs/sheep/light_blue" # Light Blue
+    4b: "simplexity:bucket_mobs/sheep/yellow"     # Yellow
+    5b: "simplexity:bucket_mobs/sheep/lime"       # Lime
+    6b: "simplexity:bucket_mobs/sheep/pink"       # Pink
+    7b: "simplexity:bucket_mobs/sheep/gray"       # Gray
+    8b: "simplexity:bucket_mobs/sheep/light_gray" # Light Gray
+    9b: "simplexity:bucket_mobs/sheep/cyan"       # Cyan
+    10b: "simplexity:bucket_mobs/sheep/purple"    # Purple
+    11b: "simplexity:bucket_mobs/sheep/blue"      # Blue
+    12b: "simplexity:bucket_mobs/sheep/brown"     # Brown
+    13b: "simplexity:bucket_mobs/sheep/green"     # Green
+    14b: "simplexity:bucket_mobs/sheep/red"       # Red
+    15b: "simplexity:bucket_mobs/sheep/black"     # Black
+SHULKER:
+  default: "simplexity:bucket_mobs/shulker/default"
+  Color:
+    0b: "simplexity:bucket_mobs/shulker/white"      # White
+    1b: "simplexity:bucket_mobs/shulker/orange"     # Orange
+    2b: "simplexity:bucket_mobs/shulker/magenta"    # Magenta
+    3b: "simplexity:bucket_mobs/shulker/light_blue" # Light Blue
+    4b: "simplexity:bucket_mobs/shulker/yellow"     # Yellow
+    5b: "simplexity:bucket_mobs/shulker/lime"       # Lime
+    6b: "simplexity:bucket_mobs/shulker/pink"       # Pink
+    7b: "simplexity:bucket_mobs/shulker/gray"       # Gray
+    8b: "simplexity:bucket_mobs/shulker/light_gray" # Light Gray
+    9b: "simplexity:bucket_mobs/shulker/cyan"       # Cyan
+    10b: "simplexity:bucket_mobs/shulker/purple"    # Purple
+    11b: "simplexity:bucket_mobs/shulker/blue"      # Blue
+    12b: "simplexity:bucket_mobs/shulker/brown"     # Brown
+    13b: "simplexity:bucket_mobs/shulker/green"     # Green
+    14b: "simplexity:bucket_mobs/shulker/red"       # Red
+    15b: "simplexity:bucket_mobs/shulker/black"     # Black
+    16b: "simplexity:bucket_mobs/shulker/default"
+SILVERFISH:
+  default: "simplexity:bucket_mobs/misc/silver_fish"
+SKELETON:
+  default: "simplexity:bucket_mobs/skeleton/skeleton"
+SKELETON_HORSE:
+  default: "simplexity:bucket_mobs/horse/skeleton_default"
+SLIME:
+  default: "simplexity:bucket_mobs/misc/slime"
+SNIFFER:
+  default: "simplexity:bucket_mobs/misc/sniffer"
+SNOWMAN:
+  default: "simplexity:bucket_mobs/misc/pumpkin_golem"
+SPIDER:
+  default: "simplexity:bucket_mobs/misc/spider"
+SQUID:
+  default: "simplexity:bucket_mobs/misc/squid"
+STRAY:
+  default: "simplexity:bucket_mobs/skeleton/stray"
+STRIDER:
+  default: "simplexity:bucket_mobs/misc/warm_strider"
+TRADER_LLAMA:
+  default: "simplexity:bucket_mobs/llama/brown_trader"
+  Variant:
+    0: "simplexity:bucket_mobs/llama/creamy_trader"    # Creamy
+    1: "simplexity:bucket_mobs/llama/white_trader"    # White
+    2: "simplexity:bucket_mobs/llama/brown_trader"    # Brown
+    3: "simplexity:bucket_mobs/llama/gray_trader"    # Gray
+TURTLE:
+  default: "simplexity:bucket_mobs/misc/turtle"
+VEX:
+  default: "simplexity:bucket_mobs/misc/vex"
+VILLAGER:
+  default: "simplexity:bucket_mobs/villager/default_default"
+  VillagerData:
+    profession:
+      "minecraft:armorer": "simplexity:bucket_mobs/villager/armorer"
+      "minecraft:butcher": "simplexity:bucket_mobs/villager/butcher"
+      "minecraft:cartographer": "simplexity:bucket_mobs/villager/default_default"
+      "minecraft:cleric": "simplexity:bucket_mobs/villager/default_cleric"
+      "minecraft:farmer": "simplexity:bucket_mobs/villager/default_farmer"
+      "minecraft:fisherman": "simplexity:bucket_mobs/villager/default_fisherman"
+      "minecraft:fletcher": "simplexity:bucket_mobs/villager/default_fletcher"
+      "minecraft:leatherworker": "simplexity:bucket_mobs/villager/default_default"
+      "minecraft:librarian": "simplexity:bucket_mobs/villager/default_librarian"
+      "minecraft:nitwit": "simplexity:bucket_mobs/villager/default_default"
+      "minecraft:none": "simplexity:bucket_mobs/villager/default_default"
+      "minecraft:mason": "simplexity:bucket_mobs/villager/default_default"
+      "minecraft:shepherd": "simplexity:bucket_mobs/villager/default_shepherd"
+      "minecraft:toolsmith": "simplexity:bucket_mobs/villager/default_default"
+      "minecraft:weaponsmith": "simplexity:bucket_mobs/villager/default_weaponsmith"
+VINDICATOR:
+  default: "simplexity:bucket_mobs/illager/vindicator"
+WANDERING_TRADER:
+  default: "simplexity:bucket_mobs/misc/wandering_trader"
+WARDEN:
+  default: "simplexity:bucket_mobs/misc/warden"
+WITCH:
+  default: "simplexity:bucket_mobs/misc/witch"
+WITHER:
+  default: "simplexity:bucket_mobs/misc/wither"
+WITHER_SKELETON:
+  default: "simplexity:bucket_mobs/skeleton/wither_skeleton"
+WOLF:
+  default: "simplexity:bucket_mobs/wolf/pale_default"
+  variant:
+    "minecraft:ashen": "simplexity:bucket_mobs/wolf/ashen_default"
+    "minecraft:black": "simplexity:bucket_mobs/wolf/black_default"
+    "minecraft:chestnut" : "simplexity:bucket_mobs/wolf/chestnut_default"
+    "minecraft:pale" : "simplexity:bucket_mobs/wolf/pale_default"
+    "minecraft:rusty" : "simplexity:bucket_mobs/wolf/rusty_default"
+    "minecraft:snowy" : "simplexity:bucket_mobs/wolf/snowy_default"
+    "minecraft:spotted" : "simplexity:bucket_mobs/wolf/spotted_default"
+    "minecraft:striped" : "simplexity:bucket_mobs/wolf/striped_default"
+    "minecraft:woods" : "simplexity:bucket_mobs/wolf/woods_default"
+  # Tamed Wolf is temporarily in "special" (22049).
+ZOMBIE:
+  default: "simplexity:bucket_mobs/zombie/zombie"
+ZOMBIE_VILLAGER:
+  default: "simplexity:bucket_mobs/zombie_villager/default_default"
+  VillagerData:
+    profession:
+      "minecraft:armorer": "simplexity:bucket_mobs/zombie_villager/armorer"
+      "minecraft:butcher": "simplexity:bucket_mobs/zombie_villager/butcher"
+      "minecraft:cartographer": "simplexity:bucket_mobs/zombie_villager/default_default"
+      "minecraft:cleric": "simplexity:bucket_mobs/zombie_villager/default_cleric"
+      "minecraft:farmer": "simplexity:bucket_mobs/zombie_villager/default_farmer"
+      "minecraft:fisherman": "simplexity:bucket_mobs/zombie_villager/default_fisherman"
+      "minecraft:fletcher": "simplexity:bucket_mobs/zombie_villager/default_fletcher"
+      "minecraft:leatherworker": "simplexity:bucket_mobs/zombie_villager/default_default"
+      "minecraft:librarian": "simplexity:bucket_mobs/zombie_villager/default_librarian"
+      "minecraft:nitwit": "simplexity:bucket_mobs/zombie_villager/default_default"
+      "minecraft:none": "simplexity:bucket_mobs/zombie_villager/default_default"
+      "minecraft:mason": "simplexity:bucket_mobs/zombie_villager/default_default"
+      "minecraft:shepherd": "simplexity:bucket_mobs/zombie_villager/default_shepherd"
+      "minecraft:toolsmith": "simplexity:bucket_mobs/zombie_villager/default_default"
+      "minecraft:weaponsmith": "simplexity:bucket_mobs/zombie_villager/default_weaponsmith"
+ZOMBIE_HORSE:
+  default: "simplexity:bucket_mobs/horse/zombie_default"
+ZOGLIN:
+  default: "simplexity:bucket_mobs/misc/zombified_hoglin"
+ZOMBIFIED_PIGLIN:
+  default: "simplexity:bucket_mobs/piglin/zombified_piglin"
+
+special:
+  fried: "simplexity:bucket_mobs/misc/chicken"
+  tamed_wolf: "simplexity:bucket_mobs/wolf/pale_default"
+  toast: "simplexity:bucket_mobs/rabbit/toast"   # Currently does not work.
