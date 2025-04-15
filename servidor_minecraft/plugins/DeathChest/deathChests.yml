@@ -84,3 +84,138 @@ world,220,42,170:
 - null
 - null
 - null
+world,-407,63,80:
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: IRON_SWORD
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    Damage: 6
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: DIAMOND_PICKAXE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    Damage: 16
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: IRON_AXE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    Damage: 4
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: BREAD
+  amount: 6
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: CLAY_BALL
+  amount: 4
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: WATER_BUCKET
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: PINK_PETALS
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: CHERRY_LOG
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: OAK_PLANKS
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: EMERALD
+  amount: 5
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: OAK_PLANKS
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: IRON_INGOT
+  amount: 10
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: MUTTON
+  amount: 4
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: OAK_PLANKS
+  amount: 50
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: STICK
+  amount: 26
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: POTATO
+  amount: 2
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: CHERRY_LOG
+  amount: 17
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: IRON_BOOTS
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    Damage: 8
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: IRON_LEGGINGS
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    Damage: 8
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: IRON_CHESTPLATE
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    Damage: 8
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: IRON_HELMET
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    Damage: 8
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: SHIELD
+  meta:
+    ==: ItemMeta
+    meta-type: SHIELD
+    Damage: 33
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
