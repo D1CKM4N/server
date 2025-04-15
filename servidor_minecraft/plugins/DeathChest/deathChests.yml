@@ -1,0 +1,86 @@
+world,220,42,170:
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: STONE_PICKAXE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    Damage: 66
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: STONE_AXE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    Damage: 21
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: CRAFTING_TABLE
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: COBBLESTONE
+  amount: 4
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: TORCH
+  amount: 7
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: ROTTEN_FLESH
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: COOKED_MUTTON
+  amount: 5
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: COAL
+  amount: 31
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: RAW_COPPER
+  amount: 52
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: RAW_IRON
+  amount: 6
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: STICK
+  amount: 4
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: OAK_PLANKS
+  amount: 25
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
