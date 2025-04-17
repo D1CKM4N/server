@@ -1,0 +1,230 @@
+world,220,42,170:
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: STONE_PICKAXE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    Damage: 66
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: STONE_AXE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    Damage: 21
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: CRAFTING_TABLE
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: COBBLESTONE
+  amount: 4
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: TORCH
+  amount: 7
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: ROTTEN_FLESH
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: COOKED_MUTTON
+  amount: 5
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: COAL
+  amount: 31
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: RAW_COPPER
+  amount: 52
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: RAW_IRON
+  amount: 6
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: STICK
+  amount: 4
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: OAK_PLANKS
+  amount: 25
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+world,-385,69,124:
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: IRON_SWORD
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    Damage: 6
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: DIAMOND_PICKAXE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    Damage: 44
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: IRON_AXE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    Damage: 4
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: BREAD
+  amount: 2
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: BUCKET
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: PINK_PETALS
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: DIRT
+  amount: 4
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: COBBLESTONE
+  amount: 23
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: OAK_PLANKS
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: CHERRY_LOG
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: EMERALD
+  amount: 6
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: PINK_PETALS
+  amount: 8
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: OAK_PLANKS
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: CHERRY_LOG
+  amount: 17
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: CLAY_BALL
+  amount: 4
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: MUTTON
+  amount: 2
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: OAK_PLANKS
+  amount: 50
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: STICK
+  amount: 26
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: IRON_INGOT
+  amount: 10
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: POTATO
+  amount: 2
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: IRON_BOOTS
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    Damage: 21
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: IRON_LEGGINGS
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    Damage: 21
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: IRON_CHESTPLATE
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    Damage: 21
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: IRON_HELMET
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    Damage: 21
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: SHIELD
+  meta:
+    ==: ItemMeta
+    meta-type: SHIELD
+    Damage: 33
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
