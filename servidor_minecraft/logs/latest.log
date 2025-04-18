@@ -1,2 +1,113 @@
 [00:00:05] [Craft Scheduler Thread - 60 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
 [00:00:35] [Craft Scheduler Thread - 55 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:01:05] [Craft Scheduler Thread - 60 - UltimateTeams/INFO]: UltimateTeams: Cleared all outstanding team invites!
+[00:01:05] [Craft Scheduler Thread - 62 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:01:35] [Craft Scheduler Thread - 63 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:01:57] [Server thread/INFO]: Rodrigoprope has made the advancement [Sneak 100]
+[00:02:02] [Folia Async Scheduler Thread #3/INFO]: [[38;5;11m⚡[0m] 
+∘₊✧────────────────────────────────✧₊∘
+LagFixer needs an update!
+Version: 1.4.06 (build 101) -> 1.4.08
+https://modrinth.com/plugin/lagfixer
+
+⚠ Updating this plugin is crucial ⚠
+⚠ for server optimization. ⚠
+∘₊✧────────────────────────────────✧₊∘
+You can disable this alert in config path:
+ main -> updater -> false
+[00:02:05] [Craft Scheduler Thread - 62 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:02:35] [Craft Scheduler Thread - 63 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:02:50] [Server thread/INFO]: xd600yu lost connection: Timed out
+[00:02:50] [Server thread/INFO]: xd600yu left the game
+[00:03:05] [Craft Scheduler Thread - 65 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:03:28] [User Authenticator #2/INFO]: UUID of player xd600yu is ad24774e-c992-3e4c-9e0c-e2e893f74d49
+[00:03:29] [Server thread/INFO]: xd600yu joined the game
+[00:03:29] [Server thread/INFO]: xd600yu[/127.45.202.141:40477] logged in with entity id 7696 at ([world]-396.07410734258843, 95.0, 147.79886526153916)
+[00:03:31] [Server thread/INFO]: [tps-hud] Sending handshake to xd600yu
+[00:03:35] [Craft Scheduler Thread - 63 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:03:35] [Server thread/INFO]: xd600yu issued server command: /login chimueloproo
+[00:04:05] [Craft Scheduler Thread - 65 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:04:35] [Craft Scheduler Thread - 68 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:05:05] [Craft Scheduler Thread - 69 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:05:35] [Craft Scheduler Thread - 68 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:06:05] [Craft Scheduler Thread - 71 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:06:35] [Craft Scheduler Thread - 72 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:07:05] [Craft Scheduler Thread - 71 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:07:35] [Craft Scheduler Thread - 72 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:07:51] [Async Chat Thread - #16/INFO]: [Not Secure] <Rodrigoprope> dic me aceptas tpa porfa
+[00:08:04] [Async Chat Thread - #16/INFO]: [Not Secure] <xd600yu> ? no me has mandado
+[00:08:05] [Craft Scheduler Thread - 75 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:08:06] [Server thread/INFO]: Rodrigoprope issued server command: /tpa xd600yu
+[00:08:15] [Server thread/INFO]: xd600yu issued server command: /tpaccept
+[00:08:35] [Craft Scheduler Thread - 72 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:09:05] [Craft Scheduler Thread - 75 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:09:11] [Async Chat Thread - #18/INFO]: [Not Secure] <Rodrigoprope> dic toma
+[00:09:22] [Async Chat Thread - #18/INFO]: [Not Secure] <xd600yu> ponlos en el cofre
+[00:09:35] [Craft Scheduler Thread - 72 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:09:38] [Server thread/INFO]: Rodrigoprope has made the advancement [We Need to Go Deeper]
+[00:09:55] [Server thread/WARN]: Rodrigoprope was kicked for floating too long!
+[00:09:55] [Server thread/INFO]: Rodrigoprope lost connection: Flying is not enabled on this server
+[00:09:55] [Server thread/INFO]: Rodrigoprope left the game
+[00:10:02] [User Authenticator #3/INFO]: UUID of player Rodrigoprope is 503d3c64-0acb-3e9a-b61a-b4b465f7d07f
+[00:10:04] [Server thread/INFO]: Rodrigoprope joined the game
+[00:10:04] [Server thread/INFO]: Rodrigoprope[/127.139.56.216:54585] logged in with entity id 9455 at ([world_nether]-59.40861482705701, 69.92455593481051, 153.58491658395693)
+[00:10:05] [Craft Scheduler Thread - 75 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:10:06] [Server thread/INFO]: [tps-hud] Sending handshake to Rodrigoprope
+[00:10:08] [Server thread/WARN]: Rodrigoprope was kicked for floating too long!
+[00:10:08] [Server thread/INFO]: Rodrigoprope lost connection: Flying is not enabled on this server
+[00:10:08] [Server thread/INFO]: Rodrigoprope left the game
+[00:10:09] [Async Chat Thread - #18/INFO]: [Not Secure] <WH1SK4S> XD man desactivas la vaina esta de no volar?
+[00:10:10] [User Authenticator #3/INFO]: UUID of player Rodrigoprope is 503d3c64-0acb-3e9a-b61a-b4b465f7d07f
+[00:10:11] [Server thread/INFO]: Rodrigoprope joined the game
+[00:10:11] [Server thread/INFO]: Rodrigoprope[/127.139.56.216:33011] logged in with entity id 9514 at ([world_nether]-59.40861482705701, 69.84615593328463, 153.58491658395693)
+[00:10:13] [Server thread/INFO]: [tps-hud] Sending handshake to Rodrigoprope
+[00:10:15] [Server thread/WARN]: Rodrigoprope was kicked for floating too long!
+[00:10:15] [Server thread/INFO]: Rodrigoprope lost connection: Flying is not enabled on this server
+[00:10:15] [Server thread/INFO]: Rodrigoprope left the game
+[00:10:18] [Async Chat Thread - #18/INFO]: [Not Secure] <xd600yu> si ya vi
+[00:10:20] [User Authenticator #3/INFO]: UUID of player Rodrigoprope is 503d3c64-0acb-3e9a-b61a-b4b465f7d07f
+[00:10:22] [Server thread/INFO]: Rodrigoprope joined the game
+[00:10:22] [Server thread/INFO]: Rodrigoprope[/127.139.56.216:51377] logged in with entity id 9534 at ([world_nether]-59.40861482705701, 69.69092392876803, 153.58491658395693)
+[00:10:22] [Server thread/ERROR]: Entity threw exception at world_nether:-50.5,90.0,113.5
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.ai.goal.WrappedGoal.isRunning()" because "wrappedGoal2" is null
+	at net.minecraft.world.entity.ai.goal.GoalSelector.tick(GoalSelector.java:100) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.world.entity.Mob.serverAiStep(Mob.java:940) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.world.entity.LivingEntity.aiStep(LivingEntity.java:3597) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.world.entity.Mob.aiStep(Mob.java:672) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.world.entity.monster.Monster.aiStep(Monster.java:45) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.world.entity.monster.Zombie.aiStep(Zombie.java:268) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.world.entity.LivingEntity.tick(LivingEntity.java:3306) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.world.entity.Mob.tick(Mob.java:443) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.world.entity.monster.Zombie.tick(Zombie.java:236) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1305) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:1489) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$4(ServerLevel.java:812) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:39) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:794) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1875) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1664) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1329) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[00:10:23] [Server thread/INFO]: [tps-hud] Sending handshake to Rodrigoprope
+[00:10:26] [Server thread/WARN]: Rodrigoprope was kicked for floating too long!
+[00:10:26] [Server thread/INFO]: Rodrigoprope lost connection: Flying is not enabled on this server
+[00:10:26] [Server thread/INFO]: Rodrigoprope left the game
+[00:10:29] [User Authenticator #3/INFO]: UUID of player Rodrigoprope is 503d3c64-0acb-3e9a-b61a-b4b465f7d07f
+[00:10:30] [Server thread/INFO]: Rodrigoprope joined the game
+[00:10:30] [Server thread/INFO]: Rodrigoprope[/127.139.56.216:34367] logged in with entity id 9574 at ([world_nether]-59.40861482705701, 69.61252392724215, 153.58491658395693)
+[00:10:32] [Async Chat Thread - #18/INFO]: [Not Secure] <WH1SK4S> pobre el causa
+[00:10:32] [Server thread/INFO]: [tps-hud] Sending handshake to Rodrigoprope
+[00:10:35] [Server thread/WARN]: Rodrigoprope was kicked for floating too long!
+[00:10:35] [Server thread/INFO]: Rodrigoprope lost connection: Flying is not enabled on this server
+[00:10:35] [Server thread/INFO]: Rodrigoprope left the game
+[00:10:35] [Craft Scheduler Thread - 72 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:10:36] [Async Chat Thread - #18/INFO]: [Not Secure] <WH1SK4S> aceptame tpa
+[00:10:37] [User Authenticator #3/INFO]: UUID of player Rodrigoprope is 503d3c64-0acb-3e9a-b61a-b4b465f7d07f
+[00:10:38] [Server thread/INFO]: Rodrigoprope joined the game
+[00:10:38] [Server thread/INFO]: Rodrigoprope[/127.139.56.216:46205] logged in with entity id 9597 at ([world_nether]-59.40861482705701, 69.38199655832919, 153.58491658395693)
+[00:10:39] [Server thread/INFO]: Rodrigoprope issued server command: /login pene
+[00:10:40] [Server thread/INFO]: [tps-hud] Sending handshake to Rodrigoprope
+[00:10:40] [Server thread/INFO]: WH1SK4S issued server command: /tpa xd600yu
+[00:10:46] [Server thread/INFO]: xd600yu issued server command: /tpaccept
+[00:10:49] [Async Chat Thread - #18/INFO]: [Not Secure] <WH1SK4S> grax
