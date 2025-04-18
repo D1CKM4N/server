@@ -210,3 +210,40 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.ai.goa
 [00:30:35] [Craft Scheduler Thread - 116 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
 [00:31:05] [Craft Scheduler Thread - 117 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
 [00:31:05] [Craft Scheduler Thread - 119 - UltimateTeams/INFO]: UltimateTeams: Cleared all outstanding team invites!
+[00:31:35] [Craft Scheduler Thread - 116 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:31:40] [Server thread/INFO]: Rodrigoprope lost connection: Disconnected
+[00:31:40] [Server thread/INFO]: Rodrigoprope left the game
+[00:31:45] [Server thread/INFO]: WH1SK4S lost connection: Disconnected
+[00:31:45] [Server thread/INFO]: WH1SK4S left the game
+[00:32:02] [Folia Async Scheduler Thread #2/INFO]: [[38;5;11m⚡[0m] 
+∘₊✧────────────────────────────────✧₊∘
+LagFixer needs an update!
+Version: 1.4.06 (build 101) -> 1.4.08
+https://modrinth.com/plugin/lagfixer
+
+⚠ Updating this plugin is crucial ⚠
+⚠ for server optimization. ⚠
+∘₊✧────────────────────────────────✧₊∘
+You can disable this alert in config path:
+ main -> updater -> false
+[00:32:05] [Craft Scheduler Thread - 117 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:32:35] [Craft Scheduler Thread - 121 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:33:05] [Craft Scheduler Thread - 117 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:33:35] [Craft Scheduler Thread - 121 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:34:05] [Craft Scheduler Thread - 117 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:34:35] [Craft Scheduler Thread - 125 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:35:05] [Craft Scheduler Thread - 117 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:35:35] [Craft Scheduler Thread - 127 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:36:05] [Craft Scheduler Thread - 128 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:36:35] [Craft Scheduler Thread - 129 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:37:00] [Server thread/INFO]: xd600yu has made the advancement [What a Deal!]
+[00:37:05] [Craft Scheduler Thread - 130 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:37:35] [Craft Scheduler Thread - 129 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:38:05] [Craft Scheduler Thread - 130 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:38:35] [Craft Scheduler Thread - 129 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:39:05] [Craft Scheduler Thread - 130 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:39:35] [Craft Scheduler Thread - 135 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:40:05] [Craft Scheduler Thread - 130 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:40:35] [Craft Scheduler Thread - 135 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:41:05] [Craft Scheduler Thread - 138 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:41:05] [Craft Scheduler Thread - 130 - UltimateTeams/INFO]: UltimateTeams: Cleared all outstanding team invites!
