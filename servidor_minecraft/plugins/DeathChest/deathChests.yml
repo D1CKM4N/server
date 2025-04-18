@@ -152,34 +152,10 @@ world,-385,69,124:
 - null
 - null
 world_nether,-82,15,48:
-- ==: org.bukkit.inventory.ItemStack
-  v: 4082
-  type: DIAMOND_SWORD
-  meta:
-    ==: ItemMeta
-    meta-type: UNSPECIFIC
-    enchants:
-      minecraft:sharpness: 1
-    Damage: 28
-- ==: org.bukkit.inventory.ItemStack
-  v: 4082
-  type: DIAMOND_PICKAXE
-  meta:
-    ==: ItemMeta
-    meta-type: UNSPECIFIC
-    enchants:
-      minecraft:efficiency: 1
-    Damage: 849
-- ==: org.bukkit.inventory.ItemStack
-  v: 4082
-  type: DIAMOND_AXE
-  meta:
-    ==: ItemMeta
-    meta-type: UNSPECIFIC
-    Damage: 35
-- ==: org.bukkit.inventory.ItemStack
-  v: 4082
-  type: DIAMOND_SHOVEL
+- null
+- null
+- null
+- null
 - ==: org.bukkit.inventory.ItemStack
   v: 4082
   type: COOKED_BEEF
@@ -231,17 +207,12 @@ world_nether,-82,15,48:
   v: 4082
   type: QUARTZ
   amount: 4
-- ==: org.bukkit.inventory.ItemStack
-  v: 4082
-  type: ANCIENT_DEBRIS
-  amount: 9
+- null
 - ==: org.bukkit.inventory.ItemStack
   v: 4082
   type: NETHERRACK
   amount: 22
-- ==: org.bukkit.inventory.ItemStack
-  v: 4082
-  type: DIAMOND_HOE
+- null
 - ==: org.bukkit.inventory.ItemStack
   v: 4082
   type: CRAFTING_TABLE
@@ -249,14 +220,8 @@ world_nether,-82,15,48:
   v: 4082
   type: STICK
   amount: 3
-- ==: org.bukkit.inventory.ItemStack
-  v: 4082
-  type: CHERRY_PLANKS
-  amount: 4
-- ==: org.bukkit.inventory.ItemStack
-  v: 4082
-  type: SALMON
-  amount: 10
+- null
+- null
 - ==: org.bukkit.inventory.ItemStack
   v: 4082
   type: COBBLED_DEEPSLATE
@@ -269,43 +234,11 @@ world_nether,-82,15,48:
   v: 4082
   type: COBBLED_DEEPSLATE
   amount: 9
-- ==: org.bukkit.inventory.ItemStack
-  v: 4082
-  type: DIAMOND_BOOTS
-  meta:
-    ==: ItemMeta
-    meta-type: ARMOR
-    Damage: 27
-- ==: org.bukkit.inventory.ItemStack
-  v: 4082
-  type: DIAMOND_LEGGINGS
-  meta:
-    ==: ItemMeta
-    meta-type: ARMOR
-    enchants:
-      minecraft:protection: 1
-    Damage: 31
-- ==: org.bukkit.inventory.ItemStack
-  v: 4082
-  type: DIAMOND_CHESTPLATE
-  meta:
-    ==: ItemMeta
-    meta-type: ARMOR
-    Damage: 27
-- ==: org.bukkit.inventory.ItemStack
-  v: 4082
-  type: DIAMOND_HELMET
-  meta:
-    ==: ItemMeta
-    meta-type: ARMOR
-    Damage: 27
-- ==: org.bukkit.inventory.ItemStack
-  v: 4082
-  type: SHIELD
-  meta:
-    ==: ItemMeta
-    meta-type: SHIELD
-    Damage: 13
+- null
+- null
+- null
+- null
+- null
 - null
 - null
 - null

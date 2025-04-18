@@ -247,3 +247,127 @@ You can disable this alert in config path:
 [00:40:35] [Craft Scheduler Thread - 135 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
 [00:41:05] [Craft Scheduler Thread - 138 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
 [00:41:05] [Craft Scheduler Thread - 130 - UltimateTeams/INFO]: UltimateTeams: Cleared all outstanding team invites!
+[00:41:35] [Craft Scheduler Thread - 139 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:42:05] [Craft Scheduler Thread - 138 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:42:35] [Craft Scheduler Thread - 140 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:43:05] [Craft Scheduler Thread - 138 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:43:35] [Craft Scheduler Thread - 142 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:44:05] [Craft Scheduler Thread - 138 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:44:35] [Craft Scheduler Thread - 144 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:45:05] [Craft Scheduler Thread - 138 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:45:35] [Craft Scheduler Thread - 146 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:46:05] [Craft Scheduler Thread - 147 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:46:35] [Craft Scheduler Thread - 146 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:47:05] [Craft Scheduler Thread - 147 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:47:35] [Craft Scheduler Thread - 146 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:48:05] [Craft Scheduler Thread - 151 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:48:35] [Craft Scheduler Thread - 146 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:49:05] [Craft Scheduler Thread - 153 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:49:25] [Server thread/INFO]: xd600yu lost connection: Disconnected
+[00:49:25] [Server thread/INFO]: xd600yu left the game
+[00:49:35] [Craft Scheduler Thread - 154 - LetUrMemoryRest/INFO]: [LetUrMemoryRest] Memory cleanup performed.
+[00:49:36] [Server thread/INFO]: Stopping the server
+[00:49:36] [Server thread/INFO]: Stopping server
+[00:49:36] [Server thread/INFO]: [Wall_Climbing] Disabling Wall_Climbing v3.1.1
+[00:49:36] [Server thread/INFO]: [UltimateTeams] Disabling UltimateTeams v3.2.1
+[00:49:36] [Server thread/INFO]: -------------------------------------------
+[00:49:36] [Server thread/INFO]: UltimateTeams: Plugin by: xF3d3
+[00:49:36] [Server thread/INFO]: UltimateTeams: Plugin Version: 3.2.1
+[00:49:36] [Server thread/INFO]: UltimateTeams: Has been shutdown successfully
+[00:49:36] [Server thread/INFO]: UltimateTeams: Goodbye!
+[00:49:36] [Server thread/INFO]: -------------------------------------------
+[00:49:36] [Server thread/INFO]: [Xhomes] Disabling Xhomes v2.1
+[00:49:36] [Server thread/INFO]: [Timber] Disabling Timber v1.6.3
+[00:49:36] [Server thread/INFO]: [Chunky] Disabling Chunky v1.4.36
+[00:49:36] [Server thread/INFO]: [Veinminer] Disabling Veinminer v2.4.3
+[00:49:36] [Server thread/INFO]: [chairs] Disabling chairs v1.2.2
+[00:49:36] [Server thread/INFO]: [ReanimateMC] Disabling ReanimateMC v1.0
+[00:49:36] [Server thread/INFO]: [ReanimateMC] ReanimateMC désactivé !
+[00:49:36] [Server thread/INFO]: [SimpleBucketMobs] Disabling SimpleBucketMobs v1.2.1
+[00:49:36] [Server thread/INFO]: [LetUrMemoryRest] Disabling LetUrMemoryRest v4.1
+[00:49:36] [Server thread/INFO]: [LimitedLives] Disabling LimitedLives v4.0.0
+[00:49:37] [Server thread/INFO]: [InstantRestock] Disabling InstantRestock v2.5.1
+[00:49:37] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.1
+[00:49:37] [Server thread/INFO]: [LoginTo] Disabling LoginTo v1.4-release
+[00:49:37] [Server thread/INFO]: [BoundlessForging] Disabling BoundlessForging v1.0-SNAPSHOT
+[00:49:37] [Server thread/INFO]: [XPHearts] Disabling XPHearts v1.1.1
+[00:49:37] [Server thread/INFO]: [DeathChest] Disabling DeathChest v1.3
+[00:49:37] [Server thread/INFO]: [DeathChest] Saving Death Chests
+[00:49:37] [Server thread/WARN]: [DeathChest] I'm def NOT working rn
+[00:49:37] [Server thread/INFO]: [SetSpawn] Disabling SetSpawn v3.1
+[00:49:37] [Server thread/INFO]: 
+[00:49:37] [Server thread/INFO]: ---------------------------------------
+[00:49:37] [Server thread/INFO]:                 Goodbye!
+[00:49:37] [Server thread/INFO]: ---------------------------------------
+[00:49:37] [Server thread/INFO]: 
+[00:49:37] [Server thread/INFO]: [DeathCoords] Disabling DeathCoords vV1.0
+[00:49:37] [Server thread/INFO]: [DoubleJump] Disabling DoubleJump v2.5
+[00:49:37] [Server thread/INFO]: [FokusAPI] Disabling FokusAPI v2.3
+[00:49:37] [Server thread/INFO]: [TabLocation] Disabling TabLocation v1.6.0
+[00:49:37] [Server thread/INFO]: ===================================
+[00:49:37] [Server thread/INFO]: Plugin has been disabled!
+[00:49:37] [Server thread/INFO]: Thank you for using TabLocation!
+[00:49:37] [Server thread/INFO]: ===================================
+[00:49:37] [Server thread/INFO]: [Clumps] Disabling Clumps v4.0
+[00:49:37] [Server thread/INFO]: [tps-hud] Disabling tps-hud v1.7.5+1.21.5
+[00:49:37] [Server thread/INFO]: [nightcore] Disabling nightcore v2.7.4
+[00:49:37] [Server thread/INFO]: [JustTPA] Disabling JustTPA v20250220c
+[00:49:37] [Server thread/INFO]: [JustTPA] JustTPA disabled
+[00:49:37] [Server thread/INFO]: [Brutal_Nightmare] Disabling Brutal_Nightmare v4.0
+[00:49:37] [Server thread/INFO]: [[38;5;11m⚡[0m] Disabling LagFixer v1.4.06 (build 101)
+[00:49:37] [Server thread/INFO]: [[38;5;11m⚡[0m] (ErrorsManager) -> Disabling manager...
+[00:49:37] [Server thread/INFO]: [[38;5;11m⚡[0m] (ErrorsManager) -> Disabled manager in 0ms!
+[00:49:37] [Server thread/INFO]: [[38;5;11m⚡[0m] (SupportManager) -> Disabling manager...
+[00:49:37] [Server thread/INFO]: [[38;5;11m⚡[0m] (SupportManager) -> Disabled manager in 0ms!
+[00:49:37] [Server thread/INFO]: [[38;5;11m⚡[0m] (ConfigManager) -> Disabling manager...
+[00:49:37] [Server thread/INFO]: [[38;5;11m⚡[0m] (ConfigManager) -> Disabled manager in 0ms!
+[00:49:37] [Server thread/INFO]: [[38;5;11m⚡[0m] (HookManager) -> Disabling manager...
+[00:49:37] [Server thread/INFO]: [[38;5;11m⚡[0m] (HookManager) -> Disabled manager in 0ms!
+[00:49:37] [Server thread/INFO]: [[38;5;11m⚡[0m] (MetricsManager) -> Disabling manager...
+[00:49:37] [Server thread/INFO]: [[38;5;11m⚡[0m] (MetricsManager) -> Disabled manager in 0ms!
+[00:49:37] [Server thread/INFO]: [[38;5;11m⚡[0m] (UpdaterManager) -> Disabling manager...
+[00:49:37] [Server thread/INFO]: [[38;5;11m⚡[0m] (UpdaterManager) -> Disabled manager in 1ms!
+[00:49:37] [Server thread/INFO]: [[38;5;11m⚡[0m] (ModuleManager) -> Disabling manager...
+[00:49:37] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module WorldCleaner in 0ms.
+[00:49:37] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module MobAiReducer in 0ms.
+[00:49:37] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module EntityLimiter in 0ms.
+[00:49:37] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module VehicleMotionReducer in 0ms.
+[00:49:37] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module InstantLeafDecay in 0ms.
+[00:49:37] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module LagMonitor in 0ms.
+[00:49:37] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module RedstoneLimiter in 0ms.
+[00:49:37] [Server thread/INFO]: [[38;5;11m⚡[0m] (ModuleManager) -> Disabled manager in 4ms!
+[00:49:37] [Server thread/INFO]: [[38;5;11m⚡[0m] (CommandManager) -> Disabling manager...
+[00:49:37] [Server thread/INFO]: [[38;5;11m⚡[0m] (CommandManager) -> Disabled manager in 0ms!
+[00:49:37] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.12-beta-01+2a9a7ed
+[00:49:37] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[00:49:37] [Server thread/INFO]: Saving players
+[00:49:37] [Server thread/INFO]: Saving worlds
+[00:49:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:49:37] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[00:49:37] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[00:49:37] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[00:49:37] [Server thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 68 entity chunks, 0 poi chunks in world 'world' in 0.04s
+[00:49:37] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[00:49:37] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[00:49:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[00:49:37] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[00:49:37] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[00:49:37] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[00:49:37] [Server thread/INFO]: [ChunkHolderManager] Saved 130 block chunks, 69 entity chunks, 0 poi chunks in world 'world_nether' in 0.10s
+[00:49:37] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[00:49:37] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[00:49:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[00:49:37] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[00:49:37] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[00:49:37] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[00:49:37] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[00:49:37] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[00:49:37] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[00:49:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:49:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:49:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:49:37] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:49:37] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[00:49:37] [Server thread/INFO]: All I/O tasks to complete
+[00:49:37] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[00:49:37] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
